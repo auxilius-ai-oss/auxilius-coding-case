@@ -1,0 +1,32 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:datasets;DB_CLOSE_DELAY=-1
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    open-in-view: false
+  mvc:
+    problemdetails:
+      enabled: true
+  servlet:
+    multipart:
+      enabled: false
+
+server:
+  port: 8080
+
+app:
+  # Where uploaded files live. Wiped and re-seeded on every start.
+  storage-dir: ${java.io.tmpdir}/datasets-case
+  seed: true
+  upload:
+    max-bytes: 4194304          # 4 MiB
+    bytes-per-second: 1048576   # server reads uploads at ~1 MiB/s
+    failure-rate: 0.08          # share of uploads that fail with 503
+  infer:
+    min-millis: 1000
+    max-millis: 4000
+    failure-rate: 0.10          # share of inference runs that fail
+  lock:
+    millis-per-file: 1000
+    millis-per-thousand-rows: 400

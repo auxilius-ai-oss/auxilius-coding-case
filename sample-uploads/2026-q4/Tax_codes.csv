@@ -1,0 +1,41 @@
+tax_code,country,description,rate_percent,valid_from
+V0,US,licence,155,2026-10-10
+E0,NL,marketing,579,2026-10-10
+V1,FR,"legal fees, reversal Q4 2026",869,2026-11-21
+E0,FR,rent,769,2026-12-27
+E0,US,reversal,179,2026-10-08
+A1,FR,marketing,989,2026-11-23
+V0,AT,utilities,418,2026-12-05
+V1,US,"consulting, intercompany Q4 2026",366,2026-10-19
+E0,CH,travel,73,2026-12-18
+E0,NL,utilities,649,2026-12-21
+A1,DE,"reversal, rebate Q4 2026",730,2026-11-23
+A1,AT,reversal,558,2026-10-23
+V0,DE,write-off,874,2026-11-27
+E0,FR,utilities,32,2026-10-10
+V0,AT,maintenance,157,2026-12-09
+E0,CH,"freight, maintenance Q4 2026",778,2026-10-20
+E0,US,consulting,419,2026-12-17
+E0,DE,Q-end adjustment,951,2026-12-01
+V1,US,"accrual, marketing Q4 2026",83,2026-10-15
+V1,NL,"utilities, correction Q4 2026",862,2026-12-22
+V1,DE,travel,49,2026-12-07
+V1,NL,rent,362,2026-11-13
+E0,DE,write-off,610,2026-12-02
+V1,FR,"reversal, accrual Q4 2026",776,2026-12-26
+E0,DE,accrual,107,2026-10-14
+A1,AT,maintenance,529,2026-10-03
+A1,DE,travel,861,2026-12-06
+V1,DE,consulting,807,2026-12-24
+A1,CH,intercompany,774,2026-10-09
+E0,FR,rent,355,2026-11-13
+V0,US,"travel, freight Q4 2026",610,2026-12-07
+E0,DE,utilities,33,2026-11-22
+E0,DE,travel,111,2026-11-24
+V1,US,"Q-end adjustment, licence Q4 2026",837,2026-12-16
+A1,NL,legal fees,930,2026-12-16
+V0,US,utilities,684,2026-10-15
+A1,FR,reversal,954,2026-11-19
+V0,FR,freight,772,2026-10-20
+E0,CH,"correction, rebate Q4 2026",71,2026-10-10
+V1,CH,"maintenance, consulting Q4 2026",881,2026-11-08

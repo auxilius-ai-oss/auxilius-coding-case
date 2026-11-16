@@ -1,0 +1,3 @@
+package app.datasets.file;
+
+public enum SchemaState { SCHEMA_NOT_INFERRED, INFERRING_SCHEMA, INFERRING_SCHEMA_FAILED, INFERRING_SCHEMA_SUCCESS }

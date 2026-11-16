@@ -1,0 +1,13 @@
+app:
+  storage-dir: ${java.io.tmpdir}/datasets-case-test
+  seed: false
+  upload:
+    bytes-per-second: 0
+    failure-rate: 0
+  infer:
+    min-millis: 0
+    max-millis: 0
+    failure-rate: 0
+  lock:
+    millis-per-file: 0
+    millis-per-thousand-rows: 0

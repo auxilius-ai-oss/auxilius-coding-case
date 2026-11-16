@@ -1,0 +1,451 @@
+gl_account,account_name,account_group,balance_sheet_account,blocked_for_posting,created_on
+0000161158,freight,DE02,false,,26.12.2026
+0000802351,intercompany,US01,false,,22.12.2026
+0000259681,marketing,DE02,false,,01.10.2026
+0000452063,marketing,CH01,false,,04.11.2026
+0000882775,marketing,DE02,false,,05.12.2026
+0000434231,freight,DE01,false,,01.10.2026
+0000233063,licence,DE01,false,,15.12.2026
+0000733018,"consulting, travel Q4 2026",DE02,false,X,17.12.2026
+0000457309,maintenance,CH01,false,,15.10.2026
+0000213256,"insurance, licence Q4 2026",DE01,false,,22.10.2026
+0000612387,legal fees,AT01,false,X,25.10.2026
+0000791566,"travel, correction Q4 2026",DE02,true,,19.11.2026
+0000270408,reversal,US01,false,X,06.11.2026
+0000630824,marketing,NL01,true,,11.11.2026
+0000548013,"insurance, intercompany Q4 2026",DE02,false,,21.12.2026
+0000727890,rebate,FR03,false,,14.10.2026
+0000642966,intercompany,US01,false,,17.10.2026
+0000140535,insurance,DE01,false,,31.12.2026
+0000521788,write-off,US01,false,,27.12.2026
+0000405394,accrual,US01,false,,16.11.2026
+0000231684,legal fees,US01,false,,16.11.2026
+0000578766,intercompany,US01,false,,17.10.2026
+0000757400,licence,DE02,false,,13.12.2026
+0000677991,rent,NL01,false,,29.12.2026
+0000440086,rebate,NL01,false,,10.12.2026
+0000296108,write-off,NL01,false,,05.11.2026
+0000243503,"utilities, Q-end adjustment Q4 2026",DE02,false,,13.10.2026
+0000307374,legal fees,AT01,false,X,21.11.2026
+0000536846,"Q-end adjustment, legal fees Q4 2026",FR03,false,,29.10.2026
+0000699101,"reversal, accrual Q4 2026",NL01,true,,26.12.2026
+0000615948,correction,US01,true,,17.11.2026
+0000492372,"rebate, rebate Q4 2026",NL01,false,,04.12.2026
+0000644238,reversal,US01,true,,12.10.2026
+0000485432,insurance,DE02,false,,26.10.2026
+0000844194,"consulting, maintenance Q4 2026",US01,true,,20.12.2026
+0000171348,"bonus, legal fees Q4 2026",DE02,false,,24.10.2026
+0000495033,travel,DE01,false,,25.10.2026
+0000519817,"correction, legal fees Q4 2026",NL01,false,X,11.10.2026
+0000888840,"rent, consulting Q4 2026",FR03,false,,08.12.2026
+0000222664,"freight, legal fees Q4 2026",AT01,false,,12.10.2026
+0000854584,consulting,US01,false,,17.11.2026
+0000474192,write-off,AT01,true,,12.10.2026
+0000309516,intercompany,DE02,false,X,23.11.2026
+0000309944,rent,DE02,false,,09.11.2026
+0000794573,bonus,US01,false,,07.11.2026
+0000111757,accrual,FR03,false,,18.12.2026
+0000562621,reversal,DE01,false,,31.12.2026
+0000581483,"intercompany, Q-end adjustment Q4 2026",DE01,false,,09.10.2026
+0000274104,"write-off, write-off Q4 2026",US01,false,,15.11.2026
+0000836572,"insurance, marketing Q4 2026",NL01,false,,13.10.2026
+0000514706,correction,DE02,false,,08.10.2026
+0000759135,rebate,NL01,false,,17.10.2026
+0000731431,reversal,US01,false,,16.11.2026
+0000379126,rent,AT01,false,,08.11.2026
+0000489141,rebate,AT01,false,,02.10.2026
+0000801027,utilities,CH01,false,X,12.12.2026
+0000183722,correction,FR03,false,X,15.10.2026
+0000206613,"correction, travel Q4 2026",NL01,false,X,31.10.2026
+0000188567,rebate,AT01,false,,14.10.2026
+0000186438,marketing,US01,false,,14.10.2026
+0000417206,legal fees,DE02,false,,24.11.2026
+0000626785,licence,DE01,true,,05.10.2026
+0000798673,reversal,FR03,false,,06.10.2026
+0000939134,"rebate, maintenance Q4 2026",CH01,false,,20.12.2026
+0000520357,utilities,DE02,false,X,13.10.2026
+0000785562,correction,NL01,false,X,26.12.2026
+0000792899,travel,CH01,true,,15.10.2026
+0000746422,correction,AT01,true,,19.10.2026
+0000241985,licence,DE02,false,,04.12.2026
+0000532144,travel,CH01,false,,10.11.2026
+0000840339,rebate,DE02,false,X,07.10.2026
+0000118117,"reversal, reversal Q4 2026",NL01,false,,19.12.2026
+0000424649,maintenance,DE02,false,,30.10.2026
+0000909524,"write-off, travel Q4 2026",AT01,false,,27.11.2026
+0000186956,"bonus, freight Q4 2026",DE01,false,X,17.10.2026
+0000891532,"utilities, bonus Q4 2026",DE01,false,,20.10.2026
+0000163802,marketing,CH01,false,,09.10.2026
+0000859732,"rent, licence Q4 2026",US01,false,,19.11.2026
+0000796400,consulting,FR03,false,,18.11.2026
+0000774711,rebate,AT01,false,,31.12.2026
+0000625287,freight,NL01,false,,25.12.2026
+0000269609,freight,DE02,false,,01.12.2026
+0000417480,utilities,CH01,false,,22.11.2026
+0000529219,"rent, bonus Q4 2026",CH01,false,,04.12.2026
+0000544177,consulting,DE01,false,,18.11.2026
+0000231548,maintenance,CH01,false,,01.12.2026
+0000598263,"rebate, utilities Q4 2026",DE02,false,,15.11.2026
+0000720016,bonus,NL01,true,,28.11.2026
+0000318384,"maintenance, Q-end adjustment Q4 2026",DE02,false,,30.10.2026
+0000876502,consulting,DE01,true,,23.10.2026
+0000494180,travel,DE01,false,,28.11.2026
+0000299129,"insurance, intercompany Q4 2026",NL01,true,,04.11.2026
+0000314577,licence,AT01,false,,21.10.2026
+0000945617,rent,CH01,false,,14.11.2026
+0000911777,reversal,DE01,false,,08.12.2026
+0000589488,correction,AT01,false,X,10.12.2026
+0000330382,"legal fees, rent Q4 2026",FR03,true,,28.11.2026
+0000451243,licence,FR03,false,,05.12.2026
+0000781966,insurance,AT01,false,,23.12.2026
+0000326385,Q-end adjustment,DE02,true,,16.12.2026
+0000200260,insurance,FR03,false,,28.11.2026
+0000907543,rent,DE02,false,,24.12.2026
+0000249967,"travel, maintenance Q4 2026",US01,false,,14.12.2026
+0000958018,"freight, bonus Q4 2026",DE01,false,,27.11.2026
+0000399222,"write-off, legal fees Q4 2026",FR03,true,,11.10.2026
+0000429258,write-off,DE02,false,,24.11.2026
+0000495618,legal fees,FR03,false,,20.12.2026
+0000706416,write-off,US01,false,X,26.11.2026
+0000205766,licence,US01,false,,29.11.2026
+0000363976,reversal,FR03,true,X,14.11.2026
+0000321529,"Q-end adjustment, Q-end adjustment Q4 2026",CH01,false,,18.12.2026
+0000530114,Q-end adjustment,CH01,false,X,12.10.2026
+0000982254,"maintenance, insurance Q4 2026",FR03,false,X,28.12.2026
+0000494465,intercompany,US01,false,,07.12.2026
+0000345439,"legal fees, marketing Q4 2026",FR03,false,X,23.10.2026
+0000609737,bonus,FR03,false,,16.11.2026
+0000565366,Q-end adjustment,DE01,false,,04.10.2026
+0000626658,freight,DE02,true,X,13.12.2026
+0000870507,utilities,CH01,false,,09.11.2026
+0000732963,"licence, correction Q4 2026",DE02,false,,01.12.2026
+0000621691,accrual,FR03,false,,11.11.2026
+0000126959,consulting,FR03,false,,30.10.2026
+0000971795,insurance,DE01,false,,21.11.2026
+0000649582,bonus,US01,false,,31.10.2026
+0000534468,"rent, Q-end adjustment Q4 2026",DE01,false,,25.12.2026
+0000169987,rent,DE02,false,,07.12.2026
+0000951600,Q-end adjustment,US01,false,,20.10.2026
+0000563473,bonus,DE01,true,X,06.10.2026
+0000800600,insurance,CH01,true,,10.10.2026
+0000819332,bonus,DE01,true,,29.12.2026
+0000907796,maintenance,FR03,true,,25.11.2026
+0000896383,"utilities, intercompany Q4 2026",US01,false,,30.11.2026
+0000283198,freight,DE02,false,,02.10.2026
+0000924054,correction,CH01,false,,28.11.2026
+0000108958,rebate,DE01,false,,16.10.2026
+0000619523,intercompany,NL01,true,,14.10.2026
+0000949922,rent,DE01,false,X,11.12.2026
+0000919301,Q-end adjustment,DE02,false,,19.10.2026
+0000540257,intercompany,AT01,true,,04.11.2026
+0000730802,accrual,AT01,true,,31.10.2026
+0000629659,utilities,DE02,false,,10.11.2026
+0000912868,accrual,CH01,false,,25.11.2026
+0000779897,travel,FR03,false,,29.11.2026
+0000779909,accrual,US01,false,X,07.12.2026
+0000935056,"utilities, Q-end adjustment Q4 2026",AT01,false,,17.10.2026
+0000900880,travel,US01,false,,24.11.2026
+0000398350,bonus,NL01,false,,20.11.2026
+0000448989,freight,DE02,false,,17.10.2026
+0000302638,"travel, reversal Q4 2026",DE01,false,X,17.12.2026
+0000751009,"utilities, maintenance Q4 2026",DE02,false,,05.10.2026
+0000302885,"legal fees, insurance Q4 2026",US01,true,,16.10.2026
+0000604171,"marketing, Q-end adjustment Q4 2026",DE02,true,,28.11.2026
+0000802521,travel,CH01,false,,18.10.2026
+0000207913,freight,NL01,false,,29.12.2026
+0000133496,rent,CH01,false,,16.11.2026
+0000931828,accrual,US01,true,,06.10.2026
+0000729217,Q-end adjustment,AT01,false,,01.11.2026
+0000765019,accrual,FR03,true,,01.10.2026
+0000155904,licence,FR03,false,,11.10.2026
+0000282228,maintenance,US01,false,,12.11.2026
+0000605447,rent,US01,false,,01.10.2026
+0000681306,rebate,US01,false,,27.12.2026
+0000958375,consulting,CH01,true,,16.10.2026
+0000762599,reversal,FR03,false,,19.10.2026
+0000529141,"utilities, rebate Q4 2026",DE01,false,,25.10.2026
+0000311419,licence,DE01,true,,08.10.2026
+0000267407,insurance,NL01,true,,24.12.2026
+0000459019,rent,CH01,false,,04.11.2026
+0000842504,travel,NL01,false,,05.12.2026
+0000737127,accrual,CH01,false,,15.10.2026
+0000661024,Q-end adjustment,CH01,false,,07.11.2026
+0000887116,licence,US01,false,,14.10.2026
+0000428120,"consulting, freight Q4 2026",FR03,false,,27.11.2026
+0000449430,insurance,DE01,false,,24.11.2026
+0000994022,"write-off, Q-end adjustment Q4 2026",AT01,true,,05.11.2026
+0000475236,"licence, maintenance Q4 2026",FR03,false,,21.11.2026
+0000743586,marketing,FR03,true,,11.12.2026
+0000872881,licence,US01,false,,25.11.2026
+0000653303,"accrual, reversal Q4 2026",AT01,false,,15.12.2026
+0000595493,bonus,DE02,false,,08.12.2026
+0000978705,"reversal, write-off Q4 2026",CH01,false,,21.10.2026
+0000688365,write-off,AT01,false,,24.12.2026
+0000972625,legal fees,NL01,false,,20.12.2026
+0000988449,rent,DE01,false,,23.10.2026
+0000723955,travel,CH01,true,,28.10.2026
+0000923405,marketing,NL01,false,,01.12.2026
+0000519323,marketing,DE01,false,,29.10.2026
+0000306954,intercompany,US01,false,,12.11.2026
+0000592885,bonus,DE02,true,,12.10.2026
+0000161027,freight,DE01,false,,31.12.2026
+0000722267,marketing,CH01,false,,23.10.2026
+0000841623,insurance,US01,false,X,17.12.2026
+0000637854,Q-end adjustment,AT01,false,,17.12.2026
+0000916470,"legal fees, rebate Q4 2026",US01,false,,10.12.2026
+0000238102,write-off,DE01,true,,08.12.2026
+0000407155,reversal,DE01,true,,07.10.2026
+0000268474,freight,NL01,true,,03.12.2026
+0000116592,"rebate, rent Q4 2026",AT01,false,X,05.10.2026
+0000737188,intercompany,AT01,false,X,29.12.2026
+0000341717,bonus,FR03,true,,11.10.2026
+0000101778,"Q-end adjustment, reversal Q4 2026",AT01,false,,19.12.2026
+0000955055,"write-off, rebate Q4 2026",DE02,true,,04.10.2026
+0000964817,marketing,DE01,false,,05.12.2026
+0000333806,"reversal, utilities Q4 2026",NL01,false,,10.10.2026
+0000756484,correction,CH01,true,,20.10.2026
+0000361308,intercompany,US01,false,,12.10.2026
+0000365775,freight,CH01,false,,06.11.2026
+0000476190,utilities,DE02,false,,07.10.2026
+0000929077,correction,NL01,false,,26.10.2026
+0000959199,reversal,US01,false,,22.12.2026
+0000481040,marketing,FR03,true,,06.12.2026
+0000891254,"intercompany, travel Q4 2026",CH01,false,X,30.11.2026
+0000808040,intercompany,DE01,false,X,19.11.2026
+0000959201,utilities,DE01,false,,08.12.2026
+0000439506,"maintenance, freight Q4 2026",NL01,true,,13.10.2026
+0000441292,maintenance,US01,false,,23.11.2026
+0000880276,"legal fees, utilities Q4 2026",CH01,false,X,21.12.2026
+0000983252,accrual,AT01,false,,05.10.2026
+0000134663,freight,CH01,true,,26.10.2026
+0000133801,utilities,DE01,false,,03.11.2026
+0000728262,"bonus, legal fees Q4 2026",NL01,false,,02.10.2026
+0000933291,intercompany,NL01,false,,13.10.2026
+0000349470,correction,AT01,false,,14.10.2026
+0000505780,"write-off, intercompany Q4 2026",US01,false,,01.10.2026
+0000190208,rent,US01,false,,14.11.2026
+0000685166,marketing,AT01,false,,27.10.2026
+0000143489,rebate,FR03,false,X,30.10.2026
+0000211178,Q-end adjustment,FR03,false,,07.10.2026
+0000497256,insurance,AT01,false,X,21.11.2026
+0000287337,"travel, utilities Q4 2026",FR03,true,,23.10.2026
+0000572861,"reversal, maintenance Q4 2026",CH01,true,X,02.12.2026
+0000271455,"intercompany, utilities Q4 2026",DE01,false,,19.12.2026
+0000959111,bonus,NL01,true,,09.12.2026
+0000241473,insurance,CH01,false,,09.12.2026
+0000226619,Q-end adjustment,US01,false,,28.10.2026
+0000413561,rebate,DE01,false,,16.12.2026
+0000119777,"write-off, reversal Q4 2026",NL01,false,,14.11.2026
+0000225007,rebate,US01,false,,07.12.2026
+0000297948,"consulting, bonus Q4 2026",AT01,false,X,14.11.2026
+0000748124,travel,US01,true,,05.11.2026
+0000680211,travel,CH01,false,,07.12.2026
+0000676930,"Q-end adjustment, bonus Q4 2026",US01,false,,12.10.2026
+0000744916,"write-off, correction Q4 2026",AT01,false,,10.12.2026
+0000217107,write-off,DE02,false,,09.12.2026
+0000446152,"freight, accrual Q4 2026",NL01,false,,13.10.2026
+0000104275,rebate,CH01,false,,19.11.2026
+0000536582,consulting,DE01,false,,22.10.2026
+0000399405,licence,DE02,false,X,16.11.2026
+0000449140,correction,NL01,false,,17.11.2026
+0000519190,rebate,NL01,false,,15.12.2026
+0000271396,utilities,CH01,false,X,03.12.2026
+0000117573,Q-end adjustment,US01,false,,25.10.2026
+0000416164,"utilities, licence Q4 2026",CH01,false,,11.12.2026
+0000525977,rebate,US01,false,,07.10.2026
+0000301594,utilities,FR03,false,,29.10.2026
+0000597619,"consulting, insurance Q4 2026",NL01,false,,30.12.2026
+0000215564,write-off,AT01,false,,25.11.2026
+0000321949,travel,DE01,false,,17.10.2026
+0000915478,rent,NL01,true,,16.12.2026
+0000837176,Q-end adjustment,US01,false,,12.11.2026
+0000976256,write-off,DE01,true,,20.11.2026
+0000696450,reversal,CH01,false,X,13.12.2026
+0000834806,"licence, rebate Q4 2026",FR03,false,,19.10.2026
+0000447038,rent,DE02,false,,13.11.2026
+0000317922,freight,DE02,false,,11.11.2026
+0000862695,"correction, Q-end adjustment Q4 2026",US01,true,,11.12.2026
+0000121155,maintenance,NL01,false,,07.12.2026
+0000785783,intercompany,DE01,false,,08.10.2026
+0000334023,write-off,DE02,false,,11.12.2026
+0000457112,Q-end adjustment,AT01,false,,22.10.2026
+0000915005,marketing,NL01,true,X,04.11.2026
+0000816477,"rent, maintenance Q4 2026",DE01,false,,20.11.2026
+0000825211,correction,DE01,false,,29.12.2026
+0000343223,reversal,NL01,false,X,26.11.2026
+0000657378,bonus,FR03,false,X,07.11.2026
+0000260963,freight,NL01,false,,06.12.2026
+0000897595,correction,NL01,false,,22.11.2026
+0000486831,accrual,DE01,false,,07.10.2026
+0000180889,marketing,DE01,false,X,07.10.2026
+0000234517,write-off,AT01,false,,09.11.2026
+0000288843,"maintenance, consulting Q4 2026",AT01,false,,28.10.2026
+0000777773,consulting,NL01,false,,01.10.2026
+0000748219,maintenance,NL01,false,,14.11.2026
+0000718944,freight,US01,true,,02.12.2026
+0000429039,"bonus, licence Q4 2026",AT01,false,,26.10.2026
+0000370139,insurance,US01,false,,10.12.2026
+0000662640,legal fees,US01,false,,17.11.2026
+0000549028,correction,AT01,false,X,10.12.2026
+0000650428,bonus,FR03,false,,22.12.2026
+0000108592,write-off,CH01,false,,09.11.2026
+0000351569,write-off,DE01,false,,21.11.2026
+0000240927,marketing,US01,true,,06.10.2026
+0000423790,"legal fees, legal fees Q4 2026",US01,true,X,18.12.2026
+0000909169,maintenance,CH01,true,,08.12.2026
+0000956967,"travel, maintenance Q4 2026",NL01,false,X,08.12.2026
+0000400549,"reversal, rebate Q4 2026",CH01,false,,16.11.2026
+0000627040,correction,DE01,false,,01.10.2026
+0000402290,rebate,DE02,false,,09.11.2026
+0000855249,"freight, rebate Q4 2026",DE02,false,,04.10.2026
+0000847374,marketing,FR03,false,,13.12.2026
+0000573739,maintenance,DE02,false,,18.11.2026
+0000248112,bonus,FR03,false,,30.10.2026
+0000908227,"utilities, utilities Q4 2026",DE02,false,,15.11.2026
+0000654921,"write-off, marketing Q4 2026",DE02,false,,26.10.2026
+0000474579,legal fees,AT01,false,,20.10.2026
+0000527782,write-off,CH01,false,,27.10.2026
+0000234426,"utilities, bonus Q4 2026",DE01,true,,05.10.2026
+0000938692,intercompany,FR03,false,,30.12.2026
+0000837712,"intercompany, bonus Q4 2026",DE02,true,,20.11.2026
+0000898340,"rebate, rebate Q4 2026",US01,false,,17.11.2026
+0000750034,insurance,CH01,false,,24.12.2026
+0000973344,licence,DE02,false,,14.12.2026
+0000193502,rebate,CH01,true,,08.12.2026
+0000330271,"accrual, rebate Q4 2026",AT01,false,,27.12.2026
+0000692635,"travel, rent Q4 2026",CH01,false,,29.10.2026
+0000720246,write-off,DE01,true,,12.11.2026
+0000841468,intercompany,DE01,false,,13.11.2026
+0000548279,"bonus, consulting Q4 2026",NL01,false,,06.10.2026
+0000340393,insurance,DE02,false,X,08.12.2026
+0000161536,correction,DE01,false,X,08.12.2026
+0000769548,"rebate, write-off Q4 2026",US01,false,,23.10.2026
+0000776141,freight,DE01,false,,24.10.2026
+0000616699,"rent, bonus Q4 2026",FR03,false,,27.12.2026
+0000585096,"travel, marketing Q4 2026",CH01,false,X,07.12.2026
+0000288703,maintenance,CH01,false,,22.11.2026
+0000400652,travel,DE01,false,,04.11.2026
+0000379015,"intercompany, accrual Q4 2026",NL01,false,,01.11.2026
+0000314710,rebate,FR03,true,,26.11.2026
+0000735736,legal fees,NL01,false,,13.10.2026
+0000334987,insurance,DE02,true,,13.11.2026
+0000685964,accrual,DE02,false,,17.11.2026
+0000319975,licence,DE01,false,,16.10.2026
+0000401870,correction,DE02,true,,08.10.2026
+0000849242,write-off,DE02,true,,04.11.2026
+0000988587,accrual,DE01,false,,03.12.2026
+0000961279,consulting,DE01,true,,23.10.2026
+0000634841,freight,US01,false,,13.11.2026
+0000455609,intercompany,CH01,true,,19.12.2026
+0000843579,bonus,FR03,false,,19.10.2026
+0000397718,"consulting, accrual Q4 2026",FR03,false,,08.11.2026
+0000143980,intercompany,NL01,false,,14.12.2026
+0000482017,rent,US01,false,,28.10.2026
+0000224120,maintenance,DE01,false,,21.10.2026
+0000466809,marketing,DE02,false,,06.12.2026
+0000994559,consulting,DE02,false,,02.12.2026
+0000977440,write-off,DE02,false,,22.12.2026
+0000100271,marketing,DE02,false,X,28.10.2026
+0000678539,maintenance,US01,false,,19.12.2026
+0000445849,"utilities, Q-end adjustment Q4 2026",DE02,false,,31.12.2026
+0000443606,consulting,US01,false,,19.12.2026
+0000353864,bonus,AT01,false,X,19.12.2026
+0000556338,licence,CH01,false,X,13.11.2026
+0000678228,utilities,FR03,false,,24.12.2026
+0000189980,freight,CH01,false,,21.12.2026
+0000473623,"rebate, accrual Q4 2026",DE02,true,,19.12.2026
+0000714459,reversal,CH01,false,,01.12.2026
+0000931119,consulting,US01,false,,24.12.2026
+0000826959,marketing,CH01,true,,11.10.2026
+0000672312,"write-off, correction Q4 2026",NL01,false,,21.11.2026
+0000587815,rebate,CH01,false,,22.10.2026
+0000807244,"legal fees, reversal Q4 2026",DE01,false,,13.12.2026
+0000694534,travel,DE01,true,,09.10.2026
+0000791924,marketing,DE01,false,,30.10.2026
+0000634150,rent,US01,false,,20.12.2026
+0000890585,"write-off, freight Q4 2026",AT01,false,,30.10.2026
+0000968697,write-off,DE02,false,X,31.12.2026
+0000400438,licence,AT01,false,,15.11.2026
+0000742760,write-off,CH01,false,,16.10.2026
+0000416137,rent,DE01,false,,05.12.2026
+0000368062,travel,FR03,true,,25.11.2026
+0000408355,"rent, freight Q4 2026",DE02,false,,25.10.2026
+0000526918,correction,NL01,false,,05.11.2026
+0000844067,correction,CH01,true,,14.12.2026
+0000487152,"Q-end adjustment, consulting Q4 2026",DE02,true,,08.12.2026
+0000693208,write-off,CH01,false,,30.12.2026
+0000690636,marketing,DE01,false,,06.11.2026
+0000278025,freight,DE01,false,X,06.10.2026
+0000805503,rebate,DE02,true,,17.12.2026
+0000529279,consulting,US01,false,,09.11.2026
+0000193562,bonus,NL01,false,,14.12.2026
+0000740989,marketing,DE02,false,X,08.11.2026
+0000368653,accrual,FR03,false,,03.11.2026
+0000542540,bonus,NL01,false,,08.11.2026
+0000386095,rent,FR03,false,,30.10.2026
+0000805826,correction,FR03,true,,09.12.2026
+0000758978,freight,DE02,false,,20.12.2026
+0000364477,"travel, freight Q4 2026",CH01,false,,22.11.2026
+0000781854,correction,AT01,false,,23.12.2026
+0000624261,"write-off, reversal Q4 2026",CH01,false,,28.10.2026
+0000267857,"intercompany, bonus Q4 2026",CH01,false,,03.11.2026
+0000496508,"insurance, maintenance Q4 2026",NL01,true,,21.12.2026
+0000598646,licence,DE01,false,,11.11.2026
+0000955157,rebate,FR03,false,,26.12.2026
+0000468987,correction,DE01,false,,29.10.2026
+0000136570,correction,US01,false,,30.10.2026
+0000776141,correction,CH01,true,,14.12.2026
+0000788628,accrual,FR03,false,,08.11.2026
+0000835127,"travel, freight Q4 2026",AT01,false,,30.12.2026
+0000878551,"reversal, freight Q4 2026",AT01,false,,22.12.2026
+0000298647,"intercompany, write-off Q4 2026",US01,false,,17.10.2026
+0000806213,consulting,CH01,false,,18.11.2026
+0000408450,consulting,NL01,false,,05.11.2026
+0000824804,marketing,FR03,false,,30.10.2026
+0000892920,Q-end adjustment,US01,false,,07.10.2026
+0000367049,maintenance,CH01,false,,28.10.2026
+0000236664,maintenance,NL01,false,X,28.10.2026
+0000333714,reversal,AT01,false,,25.12.2026
+0000620612,utilities,DE01,false,,25.10.2026
+0000999281,bonus,DE02,false,,23.12.2026
+0000438636,"reversal, freight Q4 2026",US01,false,,27.12.2026
+0000364902,"marketing, freight Q4 2026",DE02,true,X,09.11.2026
+0000539523,insurance,CH01,true,,23.12.2026
+0000476009,"intercompany, insurance Q4 2026",DE01,false,X,08.10.2026
+0000571278,accrual,NL01,false,,26.10.2026
+0000228815,accrual,DE02,false,X,24.10.2026
+0000527249,accrual,US01,false,,01.11.2026
+0000604757,bonus,NL01,false,,02.12.2026
+0000446773,"travel, legal fees Q4 2026",CH01,false,,21.10.2026
+0000787462,freight,DE01,true,,21.10.2026
+0000868644,insurance,FR03,true,,29.12.2026
+0000148997,marketing,NL01,true,,28.10.2026
+0000443796,intercompany,AT01,false,X,15.12.2026
+0000567288,licence,DE02,true,,28.10.2026
+0000985134,bonus,US01,false,,01.12.2026
+0000486490,"accrual, write-off Q4 2026",CH01,false,,24.11.2026
+0000755750,"reversal, maintenance Q4 2026",DE01,false,,03.10.2026
+0000303010,"consulting, rent Q4 2026",AT01,false,,29.12.2026
+0000476855,bonus,DE01,true,,06.11.2026
+0000753512,reversal,US01,false,,24.12.2026
+0000295626,rent,AT01,false,,28.10.2026
+0000167549,"write-off, write-off Q4 2026",CH01,false,X,15.12.2026
+0000539695,legal fees,DE01,false,,28.11.2026
+0000956820,"marketing, correction Q4 2026",NL01,false,,15.11.2026
+0000362775,travel,DE02,true,,20.12.2026
+0000287963,marketing,DE02,false,,17.10.2026
+0000661749,correction,DE02,false,,31.12.2026
+0000181373,licence,CH01,false,,08.10.2026
+0000524157,rent,AT01,true,,31.10.2026
+0000267374,"Q-end adjustment, licence Q4 2026",AT01,true,,24.10.2026
+0000574347,accrual,US01,false,,11.12.2026
+0000389572,travel,US01,true,,24.10.2026
+0000754567,travel,US01,true,,20.12.2026
+0000169703,maintenance,DE01,true,X,01.10.2026
+0000956714,rebate,NL01,false,,08.11.2026
+0000970830,maintenance,US01,false,,28.10.2026
+0000267567,"marketing, Q-end adjustment Q4 2026",NL01,false,,15.12.2026
+0000847597,intercompany,DE02,false,,10.12.2026
+0000823943,rent,NL01,false,,23.12.2026
+0000867865,Q-end adjustment,DE02,false,X,10.12.2026
+0000439318,utilities,US01,true,,23.10.2026

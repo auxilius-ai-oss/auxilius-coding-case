@@ -1,0 +1,1201 @@
+claim_id,employee,submitted_on,amount,currency,,approved_by,paid
+5120260002,Claudia Nowak,17.11.2026,30568.39,USD,NL01,Tobias Weber,false
+5120260012,Hannah Fischer,21.12.2026,11050.93,EUR,DE01,Julia Schmidt,false
+5120260018,Eva van Dijk,02.11.2026,48985.62,CHF,US01,Eva van Dijk,true
+5120260025,Anna Kowalski,24.11.2026,26305.58,EUR,DE02,Sophie Krause,false
+5120260028,Marco Müller,04.10.2026,-5320.21,USD,US01,Louis Dubois,false
+5120260041,Anna Kowalski,02.12.2026,27907.52,CHF,DE01,Anna Kowalski,false
+5120260045,Tobias Weber,23.11.2026,9472.22,EUR,NL01,Sophie Krause,true
+5120260054,Sophie Krause,25.10.2026,29069.24,EUR,DE01,Anna Kowalski,false
+5120260062,Sophie Krause,25.11.2026,23150.48,EUR,FR03,Anna Kowalski,false
+5120260064,Claudia Nowak,23.10.2026,7209.30,CHF,DE02,Claudia Nowak,false
+5120260076,Claudia Nowak,04.10.2026,43994.25,EUR,FR03,Marco Müller,false
+5120260082,Tobias Weber,04.12.2026,38783.63,EUR,NL01,Pieter Jansen,false
+5120260088,Eva van Dijk,15.10.2026,42123.64,EUR,DE02,Tobias Weber,false
+5120260095,Sophie Krause,09.10.2026,23541.39,EUR,CH01,Tobias Weber,true
+5120260102,Eva van Dijk,11.10.2026,36942.50,CHF,US01,Marco Müller,false
+5120260105,Eva van Dijk,31.12.2026,28041.13,EUR,CH01,Hannah Fischer,false
+5120260112,Tobias Weber,17.12.2026,13970.97,EUR,DE02,Sophie Krause,false
+5120260119,Eva van Dijk,02.10.2026,17074.91,CHF,FR03,Louis Dubois,true
+5120260130,Eva van Dijk,22.11.2026,44384.99,EUR,FR03,Hannah Fischer,false
+5120260133,Eva van Dijk,21.11.2026,1265.26,EUR,US01,Anna Kowalski,false
+5120260145,Eva van Dijk,08.12.2026,15446.73,EUR,DE01,Claudia Nowak,false
+5120260152,Anna Kowalski,06.12.2026,29908.92,CHF,DE01,Anna Kowalski,false
+5120260156,Eva van Dijk,08.11.2026,15959.16,GBP,DE01,Marco Müller,false
+5120260167,Sophie Krause,06.10.2026,3838.60,CHF,NL01,Louis Dubois,false
+5120260168,Eva van Dijk,06.12.2026,4147.11,CHF,NL01,Sophie Krause,false
+5120260178,Louis Dubois,19.12.2026,22092.38,EUR,AT01,Tobias Weber,false
+5120260187,Hannah Fischer,30.10.2026,45158.47,EUR,DE01,Tobias Weber,false
+5120260191,Hannah Fischer,24.12.2026,3671.65,USD,US01,Tobias Weber,false
+5120260202,Eva van Dijk,24.10.2026,-25703.94,CHF,FR03,Hannah Fischer,false
+5120260208,Hannah Fischer,05.10.2026,46542.51,EUR,DE02,Eva van Dijk,false
+5120260215,Sophie Krause,28.10.2026,12575.05,USD,DE01,Pieter Jansen,false
+5120260221,Eva van Dijk,24.11.2026,17380.67,EUR,AT01,Anna Kowalski,false
+5120260226,Marco Müller,03.10.2026,38625.14,GBP,CH01,Sophie Krause,false
+5120260236,Louis Dubois,05.11.2026,27075.82,EUR,NL01,Tobias Weber,false
+5120260241,Marco Müller,11.10.2026,49312.41,CHF,CH01,Anna Kowalski,false
+5120260251,Eva van Dijk,26.10.2026,20899.12,EUR,DE01,Hannah Fischer,false
+5120260254,Marco Müller,14.12.2026,32398.58,EUR,NL01,Sophie Krause,false
+5120260262,Eva van Dijk,15.12.2026,49307.76,GBP,DE02,Sophie Krause,true
+5120260266,Louis Dubois,21.11.2026,37475.59,EUR,NL01,Tobias Weber,true
+5120260273,Anna Kowalski,11.12.2026,41923.10,GBP,DE01,Anna Kowalski,false
+5120260282,Eva van Dijk,03.10.2026,7333.62,GBP,CH01,Hannah Fischer,false
+5120260291,Julia Schmidt,31.12.2026,17649.28,CHF,CH01,Hannah Fischer,false
+5120260300,Julia Schmidt,01.12.2026,7797.39,CHF,FR03,Tobias Weber,false
+5120260301,Marco Müller,14.12.2026,-36558.49,EUR,AT01,Anna Kowalski,false
+5120260308,Eva van Dijk,16.12.2026,40913.73,GBP,US01,Pieter Jansen,true
+5120260321,Hannah Fischer,19.12.2026,18707.86,EUR,DE02,Tobias Weber,false
+5120260327,Claudia Nowak,14.10.2026,40140.84,EUR,DE02,Tobias Weber,false
+5120260330,Anna Kowalski,21.10.2026,31896.70,EUR,DE02,Sophie Krause,false
+5120260339,Claudia Nowak,15.10.2026,44014.60,EUR,US01,Hannah Fischer,false
+5120260345,Anna Kowalski,17.10.2026,28540.95,CHF,US01,Louis Dubois,false
+5120260354,Eva van Dijk,23.10.2026,5057.31,GBP,DE01,Tobias Weber,false
+5120260361,Louis Dubois,26.11.2026,29031.89,EUR,US01,Tobias Weber,false
+5120260365,Eva van Dijk,18.10.2026,11447.75,CHF,FR03,Anna Kowalski,false
+5120260372,Marco Müller,23.12.2026,-38148.90,EUR,NL01,Marco Müller,false
+5120260379,Pieter Jansen,26.12.2026,35662.60,GBP,DE01,Pieter Jansen,false
+5120260388,Louis Dubois,14.11.2026,10808.15,EUR,AT01,Julia Schmidt,true
+5120260395,Tobias Weber,01.11.2026,-49070.80,GBP,NL01,Hannah Fischer,false
+5120260403,Hannah Fischer,03.11.2026,3848.11,CHF,AT01,Marco Müller,false
+5120260407,Tobias Weber,13.11.2026,30860.53,EUR,CH01,Tobias Weber,false
+5120260413,Claudia Nowak,24.10.2026,45947.00,EUR,CH01,Pieter Jansen,false
+5120260421,Louis Dubois,08.12.2026,34718.59,GBP,DE01,Julia Schmidt,false
+5120260429,Julia Schmidt,20.11.2026,534.20,EUR,AT01,Pieter Jansen,false
+5120260434,Anna Kowalski,22.10.2026,28091.61,EUR,US01,Sophie Krause,true
+5120260443,Anna Kowalski,23.11.2026,6280.99,USD,DE01,Anna Kowalski,true
+5120260454,Julia Schmidt,11.10.2026,-41917.54,EUR,DE02,Sophie Krause,true
+5120260455,Julia Schmidt,24.12.2026,10907.86,EUR,CH01,Claudia Nowak,false
+5120260462,Louis Dubois,01.12.2026,46168.41,EUR,CH01,Tobias Weber,false
+5120260469,Claudia Nowak,27.11.2026,28764.60,CHF,US01,Marco Müller,false
+5120260482,Marco Müller,02.10.2026,-14618.02,GBP,DE01,Marco Müller,false
+5120260486,Anna Kowalski,20.11.2026,30354.76,CHF,AT01,Marco Müller,false
+5120260494,Sophie Krause,30.12.2026,33886.79,GBP,US01,Claudia Nowak,false
+5120260498,Pieter Jansen,23.12.2026,15441.39,USD,CH01,Julia Schmidt,true
+5120260505,Julia Schmidt,28.11.2026,22790.63,EUR,US01,Louis Dubois,false
+5120260517,Tobias Weber,22.12.2026,38988.45,USD,AT01,Marco Müller,false
+5120260523,Louis Dubois,26.11.2026,25641.79,GBP,NL01,Tobias Weber,false
+5120260529,Hannah Fischer,14.11.2026,36333.60,EUR,AT01,Julia Schmidt,false
+5120260535,Pieter Jansen,14.11.2026,13865.82,EUR,NL01,Eva van Dijk,true
+5120260539,Tobias Weber,29.10.2026,11304.19,EUR,DE02,Pieter Jansen,false
+5120260547,Marco Müller,12.11.2026,31548.46,GBP,CH01,Claudia Nowak,true
+5120260554,Pieter Jansen,15.12.2026,15542.89,EUR,DE01,Julia Schmidt,false
+5120260565,Marco Müller,04.11.2026,-43737.34,CHF,CH01,Hannah Fischer,true
+5120260569,Pieter Jansen,21.12.2026,-22658.63,GBP,FR03,Julia Schmidt,false
+5120260579,Anna Kowalski,26.12.2026,42051.77,EUR,DE02,Sophie Krause,true
+5120260584,Tobias Weber,02.12.2026,4988.18,GBP,FR03,Sophie Krause,false
+5120260589,Pieter Jansen,29.10.2026,4895.62,CHF,FR03,Claudia Nowak,false
+5120260596,Marco Müller,18.10.2026,-6370.35,CHF,DE01,Louis Dubois,true
+5120260604,Hannah Fischer,22.11.2026,18839.59,EUR,NL01,Louis Dubois,false
+5120260614,Eva van Dijk,31.10.2026,42976.11,EUR,CH01,Sophie Krause,true
+5120260620,Tobias Weber,20.12.2026,3605.07,EUR,DE01,Tobias Weber,false
+5120260625,Louis Dubois,19.10.2026,27397.74,USD,DE02,Anna Kowalski,false
+5120260634,Anna Kowalski,09.10.2026,48339.69,USD,AT01,Marco Müller,false
+5120260637,Hannah Fischer,09.11.2026,23045.15,EUR,US01,Sophie Krause,false
+5120260647,Anna Kowalski,02.10.2026,24698.46,EUR,DE01,Hannah Fischer,false
+5120260656,Julia Schmidt,29.12.2026,18342.27,EUR,AT01,Pieter Jansen,false
+5120260660,Hannah Fischer,03.11.2026,47133.96,USD,DE01,Marco Müller,false
+5120260671,Eva van Dijk,14.11.2026,48623.89,CHF,US01,Pieter Jansen,false
+5120260675,Pieter Jansen,19.10.2026,42242.92,CHF,DE01,Hannah Fischer,false
+5120260680,Pieter Jansen,18.12.2026,21776.52,CHF,US01,Eva van Dijk,false
+5120260686,Anna Kowalski,28.10.2026,11362.35,EUR,NL01,Anna Kowalski,false
+5120260693,Anna Kowalski,29.10.2026,39405.05,USD,DE01,Anna Kowalski,true
+5120260704,Eva van Dijk,28.11.2026,9156.34,EUR,CH01,Pieter Jansen,false
+5120260708,Julia Schmidt,05.11.2026,13719.58,EUR,DE01,Hannah Fischer,false
+5120260718,Eva van Dijk,02.10.2026,23377.47,EUR,DE02,Marco Müller,true
+5120260727,Julia Schmidt,09.11.2026,48899.51,EUR,AT01,Anna Kowalski,false
+5120260728,Marco Müller,29.12.2026,14844.16,EUR,DE01,Anna Kowalski,false
+5120260740,Marco Müller,08.11.2026,36368.95,EUR,DE01,Sophie Krause,true
+5120260745,Anna Kowalski,10.11.2026,7461.87,EUR,DE01,Louis Dubois,false
+5120260750,Claudia Nowak,26.11.2026,19369.02,EUR,NL01,Claudia Nowak,false
+5120260758,Anna Kowalski,25.11.2026,29517.74,EUR,US01,Tobias Weber,true
+5120260766,Tobias Weber,20.11.2026,22123.34,USD,CH01,Louis Dubois,false
+5120260770,Sophie Krause,17.11.2026,-23908.34,EUR,DE01,Julia Schmidt,false
+5120260782,Louis Dubois,18.11.2026,29744.65,EUR,NL01,Sophie Krause,true
+5120260787,Claudia Nowak,04.12.2026,28383.08,CHF,US01,Anna Kowalski,false
+5120260794,Marco Müller,16.12.2026,-24447.88,EUR,AT01,Anna Kowalski,false
+5120260802,Pieter Jansen,26.11.2026,3915.67,EUR,DE01,Tobias Weber,false
+5120260806,Sophie Krause,28.10.2026,5753.90,EUR,US01,Anna Kowalski,true
+5120260814,Julia Schmidt,05.11.2026,-21098.11,EUR,DE02,Tobias Weber,false
+5120260821,Claudia Nowak,15.12.2026,26480.62,EUR,FR03,Julia Schmidt,false
+5120260832,Eva van Dijk,15.11.2026,-954.57,CHF,NL01,Marco Müller,true
+5120260839,Sophie Krause,30.12.2026,25366.20,USD,US01,Tobias Weber,false
+5120260842,Pieter Jansen,06.10.2026,18437.49,USD,CH01,Tobias Weber,false
+5120260849,Marco Müller,02.10.2026,43472.38,EUR,NL01,Anna Kowalski,true
+5120260860,Claudia Nowak,01.10.2026,22050.62,EUR,CH01,Julia Schmidt,false
+5120260863,Anna Kowalski,06.10.2026,39921.47,USD,AT01,Sophie Krause,true
+5120260870,Marco Müller,26.12.2026,32033.07,EUR,NL01,Hannah Fischer,true
+5120260875,Pieter Jansen,30.10.2026,26491.81,EUR,AT01,Julia Schmidt,false
+5120260882,Claudia Nowak,22.10.2026,32011.42,CHF,CH01,Marco Müller,false
+5120260894,Julia Schmidt,09.11.2026,-34555.02,EUR,NL01,Louis Dubois,true
+5120260900,Claudia Nowak,25.11.2026,36338.65,CHF,AT01,Louis Dubois,false
+5120260905,Pieter Jansen,20.10.2026,19392.12,GBP,FR03,Eva van Dijk,false
+5120260910,Hannah Fischer,21.12.2026,7346.27,EUR,AT01,Pieter Jansen,false
+5120260918,Eva van Dijk,07.11.2026,45433.12,EUR,AT01,Anna Kowalski,false
+5120260927,Louis Dubois,05.11.2026,27968.17,USD,NL01,Marco Müller,true
+5120260931,Marco Müller,09.11.2026,-39188.20,CHF,DE02,Julia Schmidt,false
+5120260941,Julia Schmidt,30.11.2026,14499.27,EUR,FR03,Marco Müller,false
+5120260950,Marco Müller,30.11.2026,-5057.17,EUR,AT01,Pieter Jansen,false
+5120260952,Sophie Krause,29.10.2026,-3553.13,GBP,NL01,Louis Dubois,false
+5120260963,Louis Dubois,31.10.2026,37874.49,USD,CH01,Marco Müller,true
+5120260968,Eva van Dijk,03.11.2026,19205.85,CHF,CH01,Hannah Fischer,false
+5120260979,Tobias Weber,18.11.2026,26699.86,GBP,US01,Hannah Fischer,true
+5120260985,Pieter Jansen,12.10.2026,16938.64,USD,CH01,Tobias Weber,false
+5120260993,Julia Schmidt,24.11.2026,45749.00,CHF,DE01,Louis Dubois,false
+5120260994,Anna Kowalski,04.11.2026,43111.73,CHF,FR03,Marco Müller,false
+5120261001,Julia Schmidt,07.10.2026,10657.10,USD,DE02,Pieter Jansen,false
+5120261012,Hannah Fischer,06.10.2026,22476.71,EUR,AT01,Eva van Dijk,false
+5120261021,Sophie Krause,11.11.2026,27702.49,EUR,DE01,Anna Kowalski,false
+5120261026,Pieter Jansen,24.10.2026,-48239.37,GBP,US01,Eva van Dijk,false
+5120261035,Julia Schmidt,06.10.2026,36217.95,EUR,DE01,Eva van Dijk,false
+5120261039,Anna Kowalski,01.10.2026,7373.84,GBP,FR03,Pieter Jansen,false
+5120261047,Louis Dubois,18.12.2026,3170.50,GBP,NL01,Marco Müller,false
+5120261051,Sophie Krause,16.12.2026,25086.29,USD,AT01,Eva van Dijk,false
+5120261063,Pieter Jansen,02.10.2026,16384.65,EUR,US01,Eva van Dijk,false
+5120261067,Louis Dubois,27.11.2026,10408.07,EUR,DE02,Sophie Krause,false
+5120261072,Anna Kowalski,25.10.2026,11796.45,CHF,CH01,Louis Dubois,false
+5120261082,Tobias Weber,02.12.2026,21882.10,EUR,CH01,Anna Kowalski,false
+5120261086,Sophie Krause,16.12.2026,16763.73,EUR,CH01,Tobias Weber,true
+5120261096,Julia Schmidt,31.12.2026,31155.60,GBP,FR03,Tobias Weber,false
+5120261105,Marco Müller,16.10.2026,-12866.59,EUR,FR03,Eva van Dijk,false
+5120261108,Pieter Jansen,06.11.2026,39264.50,EUR,FR03,Louis Dubois,false
+5120261118,Sophie Krause,07.10.2026,-24571.90,EUR,US01,Hannah Fischer,false
+5120261123,Louis Dubois,19.11.2026,46370.74,CHF,DE01,Louis Dubois,false
+5120261127,Claudia Nowak,29.12.2026,580.64,USD,FR03,Marco Müller,false
+5120261138,Julia Schmidt,11.12.2026,19962.36,GBP,FR03,Marco Müller,false
+5120261144,Sophie Krause,16.12.2026,29266.99,EUR,NL01,Louis Dubois,true
+5120261152,Pieter Jansen,27.10.2026,2965.93,EUR,US01,Sophie Krause,false
+5120261159,Anna Kowalski,23.11.2026,25828.63,EUR,CH01,Hannah Fischer,false
+5120261164,Hannah Fischer,12.12.2026,28255.93,GBP,DE02,Hannah Fischer,false
+5120261171,Pieter Jansen,28.11.2026,18363.03,CHF,CH01,Eva van Dijk,false
+5120261182,Anna Kowalski,11.10.2026,38664.22,EUR,DE02,Anna Kowalski,false
+5120261187,Sophie Krause,02.11.2026,40745.26,CHF,FR03,Louis Dubois,false
+5120261191,Eva van Dijk,20.11.2026,40436.20,EUR,FR03,Hannah Fischer,false
+5120261200,Anna Kowalski,15.12.2026,32990.39,EUR,AT01,Marco Müller,false
+5120261207,Eva van Dijk,23.10.2026,46779.05,EUR,DE01,Eva van Dijk,false
+5120261217,Marco Müller,06.12.2026,-15584.00,EUR,CH01,Julia Schmidt,true
+5120261223,Hannah Fischer,23.10.2026,29280.00,EUR,FR03,Anna Kowalski,true
+5120261225,Pieter Jansen,02.12.2026,19719.67,EUR,DE02,Julia Schmidt,false
+5120261234,Tobias Weber,22.11.2026,34551.02,EUR,DE02,Louis Dubois,false
+5120261243,Pieter Jansen,22.11.2026,9847.56,EUR,CH01,Julia Schmidt,false
+5120261250,Hannah Fischer,25.10.2026,-31922.74,EUR,US01,Pieter Jansen,false
+5120261258,Louis Dubois,10.12.2026,42113.09,EUR,DE01,Marco Müller,false
+5120261261,Sophie Krause,13.12.2026,-284.02,GBP,US01,Julia Schmidt,false
+5120261273,Hannah Fischer,09.12.2026,15866.42,EUR,DE02,Claudia Nowak,false
+5120261280,Louis Dubois,11.11.2026,48331.90,CHF,US01,Louis Dubois,false
+5120261285,Claudia Nowak,15.10.2026,5966.28,USD,DE01,Louis Dubois,false
+5120261293,Julia Schmidt,14.11.2026,2324.03,GBP,AT01,Claudia Nowak,false
+5120261297,Pieter Jansen,11.11.2026,13650.31,GBP,DE01,Hannah Fischer,false
+5120261304,Anna Kowalski,10.11.2026,43902.04,USD,DE02,Tobias Weber,false
+5120261315,Tobias Weber,25.10.2026,41850.04,USD,AT01,Julia Schmidt,false
+5120261316,Louis Dubois,24.12.2026,8268.74,EUR,FR03,Anna Kowalski,false
+5120261325,Tobias Weber,07.10.2026,49647.55,GBP,DE02,Anna Kowalski,true
+5120261330,Anna Kowalski,08.11.2026,14203.79,EUR,CH01,Louis Dubois,false
+5120261340,Eva van Dijk,25.10.2026,32484.46,EUR,DE02,Pieter Jansen,true
+5120261349,Pieter Jansen,25.11.2026,20149.01,GBP,DE02,Hannah Fischer,true
+5120261353,Claudia Nowak,10.12.2026,48613.90,CHF,CH01,Marco Müller,false
+5120261361,Eva van Dijk,08.12.2026,-37478.92,EUR,FR03,Anna Kowalski,false
+5120261369,Louis Dubois,30.12.2026,7834.06,EUR,FR03,Pieter Jansen,false
+5120261374,Hannah Fischer,28.11.2026,-36552.37,USD,FR03,Tobias Weber,false
+5120261382,Louis Dubois,20.11.2026,19978.26,GBP,AT01,Sophie Krause,false
+5120261386,Julia Schmidt,25.10.2026,13589.44,EUR,FR03,Sophie Krause,false
+5120261395,Eva van Dijk,06.11.2026,39292.15,CHF,DE02,Marco Müller,false
+5120261406,Marco Müller,08.12.2026,5539.88,EUR,DE02,Tobias Weber,false
+5120261413,Marco Müller,03.10.2026,36538.12,EUR,NL01,Pieter Jansen,false
+5120261417,Pieter Jansen,29.10.2026,49469.11,GBP,US01,Tobias Weber,false
+5120261425,Hannah Fischer,30.10.2026,34645.91,USD,AT01,Tobias Weber,false
+5120261429,Marco Müller,04.11.2026,28922.60,EUR,US01,Hannah Fischer,false
+5120261438,Sophie Krause,13.12.2026,40949.01,USD,DE02,Marco Müller,false
+5120261443,Julia Schmidt,10.11.2026,6010.55,EUR,FR03,Sophie Krause,true
+5120261452,Hannah Fischer,11.12.2026,25933.00,GBP,CH01,Hannah Fischer,false
+5120261462,Pieter Jansen,07.10.2026,14100.14,EUR,AT01,Marco Müller,false
+5120261467,Pieter Jansen,19.11.2026,21992.36,CHF,DE02,Anna Kowalski,false
+5120261473,Pieter Jansen,27.12.2026,10230.63,CHF,DE02,Claudia Nowak,false
+5120261483,Anna Kowalski,06.11.2026,43098.56,CHF,NL01,Tobias Weber,true
+5120261487,Julia Schmidt,01.10.2026,40715.83,CHF,DE02,Julia Schmidt,false
+5120261494,Claudia Nowak,14.11.2026,9003.00,USD,NL01,Claudia Nowak,false
+5120261500,Tobias Weber,02.11.2026,47625.13,GBP,US01,Tobias Weber,false
+5120261507,Claudia Nowak,31.10.2026,12353.36,CHF,NL01,Louis Dubois,false
+5120261513,Tobias Weber,16.10.2026,26251.11,CHF,DE02,Sophie Krause,false
+5120261525,Anna Kowalski,06.10.2026,45878.09,EUR,US01,Julia Schmidt,false
+5120261528,Pieter Jansen,22.11.2026,31141.39,GBP,AT01,Louis Dubois,false
+5120261536,Julia Schmidt,21.12.2026,-1164.67,GBP,CH01,Julia Schmidt,false
+5120261545,Marco Müller,11.11.2026,14172.22,EUR,NL01,Claudia Nowak,false
+5120261550,Tobias Weber,23.12.2026,821.69,USD,US01,Sophie Krause,false
+5120261559,Anna Kowalski,30.11.2026,16112.88,USD,DE02,Julia Schmidt,false
+5120261564,Claudia Nowak,07.10.2026,13258.38,EUR,US01,Marco Müller,false
+5120261570,Anna Kowalski,05.12.2026,26068.75,GBP,DE02,Sophie Krause,false
+5120261579,Tobias Weber,12.10.2026,20235.00,EUR,FR03,Claudia Nowak,false
+5120261584,Pieter Jansen,21.12.2026,-915.37,CHF,DE01,Eva van Dijk,false
+5120261590,Tobias Weber,30.10.2026,10282.37,EUR,FR03,Anna Kowalski,false
+5120261598,Claudia Nowak,10.12.2026,12504.64,EUR,DE02,Anna Kowalski,false
+5120261604,Anna Kowalski,01.12.2026,34051.52,GBP,DE01,Julia Schmidt,false
+5120261613,Anna Kowalski,21.10.2026,24780.20,GBP,DE02,Julia Schmidt,true
+5120261617,Anna Kowalski,03.12.2026,-39816.29,USD,AT01,Claudia Nowak,false
+5120261627,Eva van Dijk,18.10.2026,7062.98,EUR,DE02,Claudia Nowak,true
+5120261637,Louis Dubois,07.11.2026,30232.14,USD,AT01,Sophie Krause,false
+5120261644,Julia Schmidt,07.12.2026,11052.98,EUR,AT01,Claudia Nowak,false
+5120261645,Anna Kowalski,27.10.2026,27182.42,EUR,FR03,Tobias Weber,false
+5120261653,Louis Dubois,27.11.2026,1739.22,CHF,CH01,Tobias Weber,false
+5120261659,Sophie Krause,22.11.2026,41251.52,EUR,NL01,Eva van Dijk,false
+5120261672,Pieter Jansen,17.11.2026,-42786.80,CHF,CH01,Claudia Nowak,false
+5120261679,Hannah Fischer,01.11.2026,-5518.70,GBP,DE01,Louis Dubois,false
+5120261683,Julia Schmidt,10.12.2026,15759.50,GBP,NL01,Louis Dubois,false
+5120261688,Eva van Dijk,17.11.2026,29178.36,EUR,NL01,Louis Dubois,true
+5120261697,Pieter Jansen,14.11.2026,19637.45,EUR,AT01,Claudia Nowak,false
+5120261704,Louis Dubois,18.12.2026,11350.45,USD,DE01,Marco Müller,false
+5120261713,Tobias Weber,09.11.2026,-11817.21,CHF,NL01,Tobias Weber,false
+5120261717,Pieter Jansen,02.11.2026,35615.87,EUR,DE02,Claudia Nowak,false
+5120261722,Marco Müller,22.12.2026,49968.53,EUR,NL01,Sophie Krause,true
+5120261733,Tobias Weber,15.11.2026,2507.28,EUR,DE02,Eva van Dijk,false
+5120261741,Anna Kowalski,06.12.2026,15281.45,EUR,DE02,Eva van Dijk,false
+5120261748,Pieter Jansen,10.10.2026,-21340.91,EUR,DE01,Marco Müller,false
+5120261755,Tobias Weber,31.10.2026,9417.28,USD,DE02,Hannah Fischer,false
+5120261758,Julia Schmidt,24.10.2026,9771.60,CHF,DE01,Tobias Weber,true
+5120261766,Hannah Fischer,27.10.2026,21191.75,USD,DE02,Claudia Nowak,false
+5120261774,Eva van Dijk,27.11.2026,39261.22,USD,DE02,Tobias Weber,true
+5120261779,Eva van Dijk,21.12.2026,49115.38,USD,NL01,Marco Müller,false
+5120261787,Claudia Nowak,01.10.2026,30741.18,USD,AT01,Anna Kowalski,true
+5120261795,Claudia Nowak,17.12.2026,17779.06,EUR,NL01,Pieter Jansen,false
+5120261800,Tobias Weber,21.10.2026,45379.05,GBP,AT01,Sophie Krause,false
+5120261810,Anna Kowalski,05.11.2026,656.34,EUR,US01,Julia Schmidt,false
+5120261814,Pieter Jansen,08.10.2026,13699.98,CHF,NL01,Sophie Krause,false
+5120261822,Julia Schmidt,30.11.2026,42209.99,GBP,DE02,Anna Kowalski,false
+5120261829,Tobias Weber,07.10.2026,1167.88,GBP,US01,Eva van Dijk,false
+5120261838,Eva van Dijk,25.10.2026,35761.34,GBP,FR03,Claudia Nowak,false
+5120261847,Julia Schmidt,19.10.2026,5006.98,EUR,AT01,Pieter Jansen,false
+5120261848,Marco Müller,08.11.2026,46517.93,EUR,FR03,Claudia Nowak,false
+5120261855,Marco Müller,12.11.2026,28279.47,EUR,DE02,Julia Schmidt,false
+5120261867,Claudia Nowak,08.10.2026,41586.04,EUR,NL01,Anna Kowalski,false
+5120261871,Sophie Krause,24.11.2026,46854.11,EUR,DE01,Hannah Fischer,true
+5120261879,Julia Schmidt,01.12.2026,37939.95,EUR,AT01,Anna Kowalski,true
+5120261888,Eva van Dijk,15.10.2026,2225.17,CHF,DE02,Sophie Krause,false
+5120261896,Tobias Weber,21.11.2026,35552.19,USD,DE01,Julia Schmidt,false
+5120261901,Pieter Jansen,24.10.2026,33961.85,GBP,US01,Tobias Weber,false
+5120261904,Sophie Krause,13.12.2026,45712.41,EUR,AT01,Louis Dubois,true
+5120261915,Sophie Krause,24.12.2026,25822.73,EUR,US01,Claudia Nowak,true
+5120261921,Claudia Nowak,18.12.2026,19460.70,USD,CH01,Pieter Jansen,false
+5120261930,Anna Kowalski,25.12.2026,20659.89,EUR,FR03,Pieter Jansen,false
+5120261936,Tobias Weber,23.11.2026,24783.38,EUR,FR03,Marco Müller,true
+5120261945,Eva van Dijk,20.12.2026,29254.82,EUR,DE02,Marco Müller,true
+5120261946,Anna Kowalski,11.10.2026,12079.76,CHF,AT01,Tobias Weber,true
+5120261954,Claudia Nowak,04.11.2026,11153.06,CHF,NL01,Eva van Dijk,true
+5120261961,Marco Müller,29.10.2026,8778.03,EUR,DE02,Pieter Jansen,false
+5120261968,Marco Müller,24.10.2026,-815.33,EUR,DE01,Anna Kowalski,false
+5120261980,Louis Dubois,26.11.2026,13195.08,EUR,AT01,Pieter Jansen,false
+5120261986,Pieter Jansen,23.12.2026,19945.96,USD,AT01,Hannah Fischer,false
+5120261990,Hannah Fischer,03.12.2026,9209.66,EUR,DE02,Sophie Krause,false
+5120261996,Pieter Jansen,21.10.2026,48372.99,EUR,DE02,Anna Kowalski,false
+5120262003,Louis Dubois,25.12.2026,23705.98,EUR,US01,Eva van Dijk,false
+5120262013,Sophie Krause,22.10.2026,30271.22,USD,US01,Louis Dubois,false
+5120262021,Marco Müller,13.10.2026,43577.62,CHF,US01,Eva van Dijk,true
+5120262025,Marco Müller,11.11.2026,14589.29,EUR,US01,Eva van Dijk,false
+5120262031,Eva van Dijk,03.12.2026,44354.78,GBP,US01,Marco Müller,false
+5120262039,Pieter Jansen,20.10.2026,11842.00,USD,CH01,Tobias Weber,false
+5120262049,Louis Dubois,04.10.2026,21252.95,USD,DE01,Anna Kowalski,false
+5120262055,Claudia Nowak,08.11.2026,-20600.18,USD,FR03,Claudia Nowak,true
+5120262058,Anna Kowalski,22.10.2026,16347.05,EUR,DE02,Sophie Krause,true
+5120262070,Anna Kowalski,04.10.2026,35771.45,EUR,CH01,Julia Schmidt,false
+5120262075,Sophie Krause,07.10.2026,36448.42,EUR,AT01,Tobias Weber,false
+5120262079,Pieter Jansen,12.10.2026,20601.45,CHF,AT01,Pieter Jansen,false
+5120262088,Eva van Dijk,25.11.2026,26872.99,EUR,AT01,Julia Schmidt,false
+5120262094,Hannah Fischer,06.12.2026,1538.74,GBP,US01,Claudia Nowak,false
+5120262102,Marco Müller,08.12.2026,42033.30,EUR,NL01,Tobias Weber,false
+5120262108,Anna Kowalski,24.12.2026,29239.40,EUR,CH01,Louis Dubois,false
+5120262117,Pieter Jansen,18.11.2026,30448.30,GBP,DE01,Julia Schmidt,true
+5120262124,Hannah Fischer,24.11.2026,45436.36,EUR,AT01,Pieter Jansen,false
+5120262130,Pieter Jansen,27.10.2026,15323.18,EUR,AT01,Anna Kowalski,false
+5120262139,Pieter Jansen,22.12.2026,1357.01,EUR,CH01,Tobias Weber,false
+5120262147,Tobias Weber,19.12.2026,17283.71,EUR,AT01,Sophie Krause,false
+5120262151,Hannah Fischer,16.10.2026,41039.13,EUR,FR03,Anna Kowalski,true
+5120262156,Pieter Jansen,03.11.2026,27494.76,EUR,CH01,Marco Müller,false
+5120262169,Sophie Krause,24.12.2026,29217.24,EUR,NL01,Sophie Krause,false
+5120262176,Louis Dubois,22.11.2026,24451.98,CHF,DE01,Marco Müller,false
+5120262180,Anna Kowalski,10.12.2026,33456.67,CHF,FR03,Eva van Dijk,false
+5120262184,Julia Schmidt,02.10.2026,46095.72,EUR,DE01,Hannah Fischer,false
+5120262192,Julia Schmidt,09.10.2026,31337.22,EUR,NL01,Julia Schmidt,false
+5120262203,Anna Kowalski,17.10.2026,26489.62,EUR,FR03,Eva van Dijk,false
+5120262206,Louis Dubois,07.12.2026,31063.27,GBP,CH01,Louis Dubois,false
+5120262215,Hannah Fischer,10.11.2026,5797.01,USD,DE02,Hannah Fischer,false
+5120262221,Julia Schmidt,14.10.2026,33318.38,EUR,DE01,Marco Müller,false
+5120262228,Eva van Dijk,30.11.2026,23945.56,EUR,DE01,Tobias Weber,false
+5120262234,Claudia Nowak,23.10.2026,41169.43,EUR,NL01,Tobias Weber,false
+5120262241,Eva van Dijk,14.11.2026,25532.14,GBP,AT01,Louis Dubois,false
+5120262247,Anna Kowalski,10.12.2026,29128.47,GBP,DE02,Julia Schmidt,false
+5120262257,Julia Schmidt,02.11.2026,21124.20,GBP,DE02,Anna Kowalski,false
+5120262261,Sophie Krause,02.10.2026,41865.60,USD,FR03,Marco Müller,false
+5120262268,Claudia Nowak,16.11.2026,21354.13,GBP,FR03,Tobias Weber,false
+5120262277,Claudia Nowak,06.10.2026,19043.21,EUR,DE01,Hannah Fischer,true
+5120262287,Sophie Krause,03.10.2026,45374.93,GBP,DE02,Hannah Fischer,false
+5120262289,Sophie Krause,30.11.2026,-37721.29,EUR,DE02,Marco Müller,false
+5120262296,Tobias Weber,11.12.2026,-8491.72,CHF,AT01,Claudia Nowak,false
+5120262304,Tobias Weber,22.10.2026,31530.11,EUR,DE01,Louis Dubois,false
+5120262313,Eva van Dijk,10.11.2026,17420.72,EUR,NL01,Tobias Weber,false
+5120262321,Tobias Weber,17.12.2026,15880.71,EUR,NL01,Sophie Krause,false
+5120262328,Tobias Weber,26.11.2026,14383.16,EUR,US01,Claudia Nowak,false
+5120262332,Eva van Dijk,27.11.2026,22679.36,GBP,NL01,Claudia Nowak,false
+5120262343,Louis Dubois,24.10.2026,15717.02,GBP,CH01,Sophie Krause,false
+5120262347,Pieter Jansen,31.10.2026,34613.20,GBP,FR03,Hannah Fischer,true
+5120262358,Louis Dubois,19.10.2026,26996.78,EUR,CH01,Hannah Fischer,false
+5120262365,Marco Müller,30.12.2026,31061.17,EUR,AT01,Eva van Dijk,false
+5120262368,Anna Kowalski,15.11.2026,3167.34,EUR,CH01,Claudia Nowak,false
+5120262378,Hannah Fischer,23.10.2026,-3835.28,EUR,NL01,Anna Kowalski,true
+5120262381,Tobias Weber,13.12.2026,11006.61,GBP,CH01,Pieter Jansen,false
+5120262392,Tobias Weber,13.12.2026,34101.92,EUR,US01,Julia Schmidt,false
+5120262394,Julia Schmidt,26.10.2026,14828.26,EUR,US01,Sophie Krause,true
+5120262404,Marco Müller,13.12.2026,16335.11,EUR,AT01,Eva van Dijk,true
+5120262414,Louis Dubois,19.10.2026,23778.77,EUR,DE02,Hannah Fischer,true
+5120262417,Sophie Krause,12.12.2026,15990.85,USD,AT01,Sophie Krause,false
+5120262422,Claudia Nowak,05.11.2026,13805.43,USD,NL01,Tobias Weber,false
+5120262431,Anna Kowalski,17.12.2026,26246.42,EUR,DE01,Pieter Jansen,false
+5120262440,Anna Kowalski,30.10.2026,5447.27,EUR,DE02,Tobias Weber,false
+5120262449,Claudia Nowak,09.11.2026,16803.28,GBP,NL01,Louis Dubois,true
+5120262453,Anna Kowalski,13.11.2026,5320.43,GBP,FR03,Julia Schmidt,true
+5120262458,Sophie Krause,24.11.2026,34113.86,USD,DE02,Tobias Weber,false
+5120262468,Julia Schmidt,23.11.2026,33328.29,EUR,CH01,Eva van Dijk,false
+5120262472,Hannah Fischer,11.12.2026,38785.51,USD,NL01,Sophie Krause,false
+5120262482,Marco Müller,13.12.2026,37019.88,EUR,NL01,Tobias Weber,false
+5120262488,Claudia Nowak,01.12.2026,44072.66,CHF,DE01,Louis Dubois,false
+5120262495,Julia Schmidt,03.12.2026,42660.56,USD,CH01,Louis Dubois,true
+5120262505,Marco Müller,25.12.2026,2702.65,EUR,AT01,Sophie Krause,false
+5120262511,Anna Kowalski,04.10.2026,35762.50,GBP,DE02,Julia Schmidt,false
+5120262516,Eva van Dijk,19.11.2026,21174.04,EUR,DE01,Hannah Fischer,false
+5120262520,Louis Dubois,09.12.2026,49189.53,EUR,AT01,Julia Schmidt,false
+5120262527,Julia Schmidt,13.11.2026,-14694.94,EUR,AT01,Claudia Nowak,false
+5120262536,Marco Müller,28.11.2026,26273.09,GBP,DE01,Tobias Weber,false
+5120262547,Anna Kowalski,10.12.2026,-15691.99,EUR,NL01,Julia Schmidt,false
+5120262554,Marco Müller,23.12.2026,6868.32,EUR,AT01,Tobias Weber,true
+5120262557,Sophie Krause,15.11.2026,396.21,EUR,NL01,Pieter Jansen,false
+5120262566,Louis Dubois,05.11.2026,6766.75,GBP,NL01,Anna Kowalski,false
+5120262573,Sophie Krause,20.12.2026,25851.27,EUR,AT01,Tobias Weber,false
+5120262580,Hannah Fischer,15.11.2026,17265.10,USD,US01,Anna Kowalski,true
+5120262586,Anna Kowalski,06.10.2026,-17093.01,EUR,NL01,Eva van Dijk,false
+5120262591,Pieter Jansen,26.11.2026,17650.77,USD,FR03,Claudia Nowak,false
+5120262603,Anna Kowalski,29.10.2026,12352.04,GBP,CH01,Eva van Dijk,false
+5120262609,Pieter Jansen,02.11.2026,38890.08,CHF,CH01,Sophie Krause,true
+5120262616,Julia Schmidt,01.11.2026,8683.12,EUR,CH01,Eva van Dijk,false
+5120262618,Pieter Jansen,26.11.2026,26090.05,GBP,CH01,Eva van Dijk,false
+5120262626,Sophie Krause,23.10.2026,23399.38,USD,DE01,Tobias Weber,true
+5120262638,Claudia Nowak,07.12.2026,41235.04,CHF,US01,Sophie Krause,false
+5120262645,Pieter Jansen,16.10.2026,40143.32,USD,US01,Julia Schmidt,false
+5120262648,Hannah Fischer,09.12.2026,16116.02,GBP,FR03,Pieter Jansen,false
+5120262656,Tobias Weber,18.11.2026,10770.56,EUR,NL01,Claudia Nowak,false
+5120262666,Sophie Krause,04.11.2026,42911.65,GBP,US01,Marco Müller,false
+5120262670,Marco Müller,08.10.2026,44438.59,GBP,US01,Tobias Weber,false
+5120262680,Julia Schmidt,25.12.2026,48265.55,EUR,DE01,Claudia Nowak,true
+5120262684,Tobias Weber,26.12.2026,8397.13,GBP,NL01,Marco Müller,false
+5120262691,Julia Schmidt,08.11.2026,27844.25,GBP,AT01,Marco Müller,true
+5120262701,Tobias Weber,29.11.2026,42377.59,CHF,FR03,Anna Kowalski,false
+5120262708,Julia Schmidt,25.12.2026,46809.25,GBP,US01,Anna Kowalski,false
+5120262709,Claudia Nowak,12.10.2026,29660.40,USD,CH01,Eva van Dijk,false
+5120262722,Hannah Fischer,05.12.2026,-1387.60,USD,NL01,Anna Kowalski,false
+5120262725,Eva van Dijk,18.11.2026,-25204.30,CHF,US01,Anna Kowalski,true
+5120262731,Eva van Dijk,24.12.2026,46477.69,EUR,US01,Claudia Nowak,false
+5120262741,Julia Schmidt,07.12.2026,37287.46,CHF,FR03,Claudia Nowak,false
+5120262744,Julia Schmidt,18.10.2026,36775.37,EUR,FR03,Eva van Dijk,true
+5120262754,Pieter Jansen,17.11.2026,16854.97,EUR,CH01,Anna Kowalski,false
+5120262763,Claudia Nowak,06.10.2026,4384.76,EUR,US01,Claudia Nowak,false
+5120262766,Louis Dubois,19.12.2026,26610.94,EUR,AT01,Pieter Jansen,false
+5120262777,Hannah Fischer,05.10.2026,45143.46,EUR,CH01,Marco Müller,false
+5120262780,Eva van Dijk,15.11.2026,42227.63,EUR,NL01,Louis Dubois,false
+5120262788,Eva van Dijk,22.11.2026,49402.71,GBP,CH01,Louis Dubois,false
+5120262797,Claudia Nowak,21.11.2026,34771.29,GBP,FR03,Claudia Nowak,false
+5120262806,Anna Kowalski,08.11.2026,32099.73,CHF,AT01,Tobias Weber,true
+5120262812,Marco Müller,23.11.2026,4712.76,EUR,US01,Claudia Nowak,false
+5120262818,Claudia Nowak,31.10.2026,28541.37,EUR,US01,Pieter Jansen,false
+5120262822,Pieter Jansen,31.12.2026,22979.08,GBP,CH01,Louis Dubois,false
+5120262834,Eva van Dijk,24.11.2026,24424.98,CHF,AT01,Louis Dubois,false
+5120262837,Tobias Weber,19.11.2026,19104.97,EUR,US01,Claudia Nowak,true
+5120262847,Pieter Jansen,26.10.2026,43559.77,CHF,FR03,Sophie Krause,false
+5120262855,Pieter Jansen,23.10.2026,48530.21,EUR,DE01,Hannah Fischer,false
+5120262858,Louis Dubois,23.12.2026,9886.63,EUR,NL01,Claudia Nowak,false
+5120262867,Louis Dubois,10.11.2026,29124.33,GBP,CH01,Sophie Krause,false
+5120262873,Tobias Weber,18.12.2026,36882.31,EUR,US01,Louis Dubois,false
+5120262883,Anna Kowalski,02.11.2026,27225.74,EUR,CH01,Claudia Nowak,true
+5120262888,Eva van Dijk,18.11.2026,45635.88,EUR,NL01,Anna Kowalski,false
+5120262891,Tobias Weber,18.11.2026,24670.91,EUR,FR03,Marco Müller,false
+5120262902,Anna Kowalski,05.11.2026,42351.85,USD,AT01,Louis Dubois,false
+5120262906,Eva van Dijk,22.12.2026,34066.58,EUR,NL01,Hannah Fischer,false
+5120262918,Sophie Krause,08.12.2026,49451.78,CHF,US01,Louis Dubois,false
+5120262925,Sophie Krause,12.12.2026,25947.41,GBP,DE01,Eva van Dijk,false
+5120262926,Louis Dubois,25.12.2026,7031.22,EUR,DE02,Louis Dubois,true
+5120262936,Hannah Fischer,09.11.2026,31479.68,EUR,CH01,Claudia Nowak,false
+5120262940,Tobias Weber,10.11.2026,27812.40,CHF,NL01,Sophie Krause,false
+5120262950,Hannah Fischer,26.12.2026,46323.68,USD,AT01,Marco Müller,false
+5120262956,Pieter Jansen,12.11.2026,6423.41,EUR,AT01,Sophie Krause,true
+5120262962,Louis Dubois,07.10.2026,25326.76,EUR,CH01,Hannah Fischer,false
+5120262974,Louis Dubois,24.10.2026,3938.61,EUR,FR03,Anna Kowalski,false
+5120262978,Eva van Dijk,05.10.2026,35676.21,GBP,AT01,Pieter Jansen,false
+5120262984,Louis Dubois,06.10.2026,18534.10,GBP,DE02,Louis Dubois,false
+5120262990,Hannah Fischer,09.11.2026,12018.80,EUR,FR03,Tobias Weber,false
+5120263000,Sophie Krause,10.12.2026,42501.83,EUR,US01,Tobias Weber,false
+5120263005,Pieter Jansen,14.11.2026,-31588.77,EUR,DE02,Marco Müller,false
+5120263013,Hannah Fischer,19.10.2026,16221.25,CHF,AT01,Eva van Dijk,false
+5120263019,Tobias Weber,01.12.2026,47212.35,USD,DE01,Marco Müller,false
+5120263027,Hannah Fischer,06.10.2026,9451.38,EUR,NL01,Sophie Krause,false
+5120263032,Eva van Dijk,23.12.2026,-48703.13,EUR,DE01,Tobias Weber,false
+5120263044,Julia Schmidt,27.10.2026,41493.61,USD,FR03,Sophie Krause,false
+5120263047,Hannah Fischer,19.10.2026,21829.39,EUR,DE01,Marco Müller,false
+5120263053,Claudia Nowak,25.11.2026,30643.95,CHF,NL01,Julia Schmidt,false
+5120263062,Anna Kowalski,07.12.2026,21396.18,USD,DE02,Sophie Krause,false
+5120263066,Marco Müller,12.12.2026,46717.40,USD,AT01,Marco Müller,false
+5120263077,Sophie Krause,10.10.2026,3086.61,CHF,FR03,Anna Kowalski,false
+5120263081,Eva van Dijk,11.12.2026,797.13,EUR,AT01,Marco Müller,false
+5120263093,Hannah Fischer,09.12.2026,12351.22,GBP,FR03,Pieter Jansen,true
+5120263099,Sophie Krause,24.11.2026,43110.01,EUR,DE02,Anna Kowalski,true
+5120263103,Tobias Weber,21.12.2026,22437.37,EUR,FR03,Hannah Fischer,false
+5120263114,Marco Müller,01.12.2026,40298.61,EUR,NL01,Louis Dubois,true
+5120263116,Julia Schmidt,28.11.2026,28283.58,CHF,DE02,Sophie Krause,false
+5120263127,Sophie Krause,27.12.2026,26137.61,GBP,AT01,Louis Dubois,false
+5120263130,Marco Müller,03.10.2026,23947.27,EUR,DE02,Tobias Weber,false
+5120263136,Julia Schmidt,06.12.2026,26043.86,EUR,DE02,Hannah Fischer,false
+5120263148,Hannah Fischer,14.11.2026,13655.85,CHF,DE01,Tobias Weber,false
+5120263152,Marco Müller,30.10.2026,25344.68,EUR,DE02,Sophie Krause,false
+5120263160,Marco Müller,12.11.2026,12801.21,EUR,FR03,Louis Dubois,false
+5120263170,Louis Dubois,09.11.2026,49618.96,USD,NL01,Anna Kowalski,false
+5120263173,Tobias Weber,04.11.2026,6535.84,EUR,US01,Julia Schmidt,false
+5120263179,Tobias Weber,26.11.2026,25236.26,EUR,NL01,Anna Kowalski,true
+5120263191,Hannah Fischer,31.10.2026,46064.47,CHF,DE02,Claudia Nowak,false
+5120263193,Marco Müller,15.10.2026,1564.95,GBP,AT01,Claudia Nowak,true
+5120263199,Hannah Fischer,30.12.2026,46454.31,CHF,DE01,Louis Dubois,false
+5120263212,Claudia Nowak,05.12.2026,6775.17,GBP,AT01,Pieter Jansen,false
+5120263214,Sophie Krause,09.11.2026,25214.12,EUR,DE02,Sophie Krause,false
+5120263224,Claudia Nowak,16.10.2026,30339.35,CHF,NL01,Julia Schmidt,true
+5120263229,Louis Dubois,31.12.2026,19133.38,EUR,US01,Louis Dubois,false
+5120263237,Tobias Weber,18.12.2026,21168.32,EUR,FR03,Sophie Krause,false
+5120263242,Louis Dubois,23.12.2026,40571.35,USD,NL01,Marco Müller,false
+5120263250,Pieter Jansen,19.12.2026,44015.75,USD,FR03,Sophie Krause,false
+5120263255,Hannah Fischer,07.12.2026,4984.55,GBP,US01,Anna Kowalski,false
+5120263264,Pieter Jansen,29.11.2026,19377.04,EUR,FR03,Eva van Dijk,false
+5120263271,Tobias Weber,26.10.2026,21884.26,GBP,US01,Anna Kowalski,false
+5120263282,Pieter Jansen,29.11.2026,18228.33,USD,DE02,Pieter Jansen,false
+5120263289,Eva van Dijk,06.10.2026,28305.07,CHF,FR03,Hannah Fischer,false
+5120263294,Julia Schmidt,15.10.2026,10331.16,EUR,FR03,Claudia Nowak,true
+5120263298,Julia Schmidt,23.10.2026,1747.25,GBP,AT01,Tobias Weber,false
+5120263305,Anna Kowalski,07.10.2026,-5775.52,GBP,AT01,Julia Schmidt,true
+5120263317,Sophie Krause,13.10.2026,18899.37,USD,FR03,Claudia Nowak,false
+5120263321,Marco Müller,25.10.2026,6446.12,EUR,CH01,Julia Schmidt,false
+5120263325,Eva van Dijk,11.12.2026,41144.54,EUR,FR03,Anna Kowalski,false
+5120263336,Pieter Jansen,16.11.2026,38451.36,EUR,AT01,Claudia Nowak,false
+5120263345,Sophie Krause,27.10.2026,22468.03,EUR,CH01,Louis Dubois,false
+5120263349,Julia Schmidt,25.11.2026,-7683.90,CHF,CH01,Pieter Jansen,true
+5120263357,Anna Kowalski,10.10.2026,10547.85,CHF,CH01,Hannah Fischer,true
+5120263366,Eva van Dijk,23.11.2026,25788.91,EUR,NL01,Anna Kowalski,false
+5120263367,Anna Kowalski,25.12.2026,6369.94,EUR,AT01,Julia Schmidt,false
+5120263377,Pieter Jansen,01.10.2026,31165.99,GBP,DE02,Claudia Nowak,false
+5120263385,Louis Dubois,29.11.2026,9089.51,CHF,FR03,Eva van Dijk,false
+5120263388,Eva van Dijk,06.11.2026,35594.67,EUR,CH01,Tobias Weber,true
+5120263398,Sophie Krause,13.10.2026,42385.54,CHF,NL01,Tobias Weber,false
+5120263407,Tobias Weber,18.12.2026,15999.15,EUR,NL01,Julia Schmidt,false
+5120263414,Anna Kowalski,03.10.2026,26313.32,EUR,DE02,Pieter Jansen,false
+5120263416,Sophie Krause,31.10.2026,-38453.55,CHF,DE01,Pieter Jansen,false
+5120263427,Louis Dubois,17.10.2026,22782.65,EUR,DE02,Pieter Jansen,false
+5120263435,Anna Kowalski,08.11.2026,36428.72,EUR,DE02,Pieter Jansen,true
+5120263441,Marco Müller,13.12.2026,844.91,CHF,US01,Claudia Nowak,false
+5120263447,Louis Dubois,18.12.2026,-30220.41,EUR,FR03,Eva van Dijk,false
+5120263457,Anna Kowalski,11.11.2026,33485.37,EUR,US01,Tobias Weber,false
+5120263458,Louis Dubois,20.10.2026,27261.89,CHF,DE02,Tobias Weber,false
+5120263468,Hannah Fischer,17.10.2026,22525.19,USD,DE02,Marco Müller,false
+5120263476,Pieter Jansen,17.10.2026,9226.05,GBP,DE01,Sophie Krause,false
+5120263485,Marco Müller,14.10.2026,22425.83,EUR,NL01,Hannah Fischer,false
+5120263488,Claudia Nowak,22.12.2026,35433.34,CHF,NL01,Marco Müller,false
+5120263495,Pieter Jansen,18.10.2026,5646.28,CHF,US01,Claudia Nowak,false
+5120263506,Hannah Fischer,09.12.2026,16255.51,USD,FR03,Louis Dubois,false
+5120263510,Marco Müller,14.11.2026,29454.88,EUR,DE02,Tobias Weber,false
+5120263514,Julia Schmidt,28.11.2026,30002.26,CHF,DE01,Pieter Jansen,false
+5120263524,Anna Kowalski,30.12.2026,21984.64,EUR,AT01,Anna Kowalski,false
+5120263528,Anna Kowalski,01.12.2026,36956.45,CHF,AT01,Eva van Dijk,false
+5120263536,Hannah Fischer,27.12.2026,29517.86,USD,US01,Julia Schmidt,true
+5120263545,Tobias Weber,19.11.2026,9314.55,EUR,CH01,Louis Dubois,false
+5120263554,Marco Müller,05.11.2026,-21436.10,EUR,AT01,Tobias Weber,false
+5120263556,Pieter Jansen,13.11.2026,26260.07,EUR,NL01,Anna Kowalski,false
+5120263567,Tobias Weber,05.11.2026,14465.46,CHF,CH01,Marco Müller,false
+5120263575,Tobias Weber,19.10.2026,40734.10,USD,DE01,Eva van Dijk,false
+5120263581,Hannah Fischer,07.12.2026,2849.16,EUR,DE02,Eva van Dijk,false
+5120263590,Julia Schmidt,25.10.2026,29611.58,EUR,US01,Julia Schmidt,false
+5120263597,Claudia Nowak,29.12.2026,-32946.10,USD,DE01,Julia Schmidt,false
+5120263602,Julia Schmidt,08.12.2026,42595.54,CHF,AT01,Pieter Jansen,false
+5120263605,Anna Kowalski,28.11.2026,27784.75,EUR,US01,Anna Kowalski,false
+5120263613,Pieter Jansen,23.10.2026,24678.52,EUR,DE01,Anna Kowalski,false
+5120263623,Julia Schmidt,27.11.2026,17677.80,EUR,NL01,Eva van Dijk,false
+5120263626,Eva van Dijk,26.10.2026,4868.14,EUR,AT01,Marco Müller,false
+5120263635,Hannah Fischer,11.12.2026,39591.74,USD,US01,Claudia Nowak,false
+5120263642,Pieter Jansen,04.12.2026,22010.70,USD,DE01,Anna Kowalski,true
+5120263651,Marco Müller,04.10.2026,26165.66,EUR,AT01,Tobias Weber,true
+5120263655,Hannah Fischer,05.10.2026,39612.29,EUR,AT01,Eva van Dijk,true
+5120263662,Anna Kowalski,21.11.2026,10598.69,CHF,DE02,Claudia Nowak,false
+5120263673,Julia Schmidt,29.11.2026,42545.13,CHF,CH01,Marco Müller,false
+5120263677,Marco Müller,11.10.2026,14040.58,CHF,US01,Eva van Dijk,false
+5120263685,Anna Kowalski,14.10.2026,-22478.50,CHF,DE01,Pieter Jansen,true
+5120263689,Anna Kowalski,27.10.2026,-12135.88,EUR,NL01,Tobias Weber,false
+5120263702,Claudia Nowak,31.12.2026,11472.07,EUR,DE02,Julia Schmidt,false
+5120263705,Hannah Fischer,25.10.2026,9850.02,USD,CH01,Sophie Krause,false
+5120263715,Sophie Krause,28.11.2026,35222.43,EUR,NL01,Eva van Dijk,false
+5120263720,Claudia Nowak,09.10.2026,38299.96,GBP,CH01,Eva van Dijk,false
+5120263728,Hannah Fischer,20.10.2026,40797.87,GBP,DE01,Anna Kowalski,false
+5120263732,Tobias Weber,13.10.2026,39819.43,EUR,DE01,Eva van Dijk,true
+5120263744,Louis Dubois,28.12.2026,47123.67,CHF,FR03,Hannah Fischer,false
+5120263751,Louis Dubois,07.11.2026,-12172.12,CHF,AT01,Tobias Weber,false
+5120263755,Hannah Fischer,04.12.2026,39857.26,CHF,FR03,Pieter Jansen,false
+5120263764,Louis Dubois,26.11.2026,10090.48,EUR,CH01,Hannah Fischer,false
+5120263766,Anna Kowalski,26.10.2026,41090.65,EUR,DE02,Pieter Jansen,false
+5120263776,Hannah Fischer,01.11.2026,16944.54,GBP,CH01,Claudia Nowak,false
+5120263781,Hannah Fischer,26.10.2026,33348.14,EUR,FR03,Pieter Jansen,false
+5120263791,Anna Kowalski,23.10.2026,29778.79,CHF,FR03,Anna Kowalski,false
+5120263796,Sophie Krause,10.10.2026,31557.46,CHF,US01,Pieter Jansen,false
+5120263803,Louis Dubois,30.12.2026,47975.69,USD,AT01,Julia Schmidt,true
+5120263812,Hannah Fischer,05.10.2026,48400.08,USD,FR03,Louis Dubois,false
+5120263817,Louis Dubois,25.12.2026,39208.73,EUR,DE02,Sophie Krause,false
+5120263828,Louis Dubois,11.12.2026,-4633.43,EUR,NL01,Tobias Weber,false
+5120263834,Sophie Krause,04.10.2026,31092.32,EUR,DE02,Sophie Krause,true
+5120263836,Hannah Fischer,19.11.2026,15360.79,GBP,DE01,Claudia Nowak,false
+5120263847,Julia Schmidt,01.10.2026,-45488.63,CHF,FR03,Louis Dubois,false
+5120263855,Sophie Krause,17.10.2026,2613.22,USD,DE02,Eva van Dijk,false
+5120263859,Pieter Jansen,12.12.2026,47922.29,CHF,CH01,Eva van Dijk,false
+5120263865,Hannah Fischer,02.11.2026,24920.04,EUR,CH01,Julia Schmidt,false
+5120263873,Tobias Weber,13.10.2026,39577.43,CHF,DE02,Claudia Nowak,false
+5120263883,Louis Dubois,12.10.2026,1309.38,CHF,DE01,Anna Kowalski,true
+5120263889,Tobias Weber,23.12.2026,-8150.25,EUR,NL01,Marco Müller,false
+5120263898,Louis Dubois,23.10.2026,26818.21,USD,FR03,Sophie Krause,false
+5120263899,Pieter Jansen,23.12.2026,40838.95,GBP,NL01,Marco Müller,false
+5120263909,Louis Dubois,29.12.2026,38803.87,GBP,NL01,Eva van Dijk,true
+5120263914,Anna Kowalski,18.12.2026,-38338.34,GBP,AT01,Eva van Dijk,false
+5120263925,Hannah Fischer,01.10.2026,1545.77,EUR,CH01,Pieter Jansen,false
+5120263932,Eva van Dijk,16.11.2026,3235.72,EUR,AT01,Hannah Fischer,false
+5120263934,Julia Schmidt,11.11.2026,32357.60,EUR,NL01,Anna Kowalski,true
+5120263941,Pieter Jansen,20.12.2026,26380.30,CHF,AT01,Eva van Dijk,false
+5120263948,Louis Dubois,06.11.2026,36373.31,EUR,NL01,Julia Schmidt,false
+5120263955,Marco Müller,25.11.2026,1519.10,CHF,NL01,Sophie Krause,false
+5120263968,Julia Schmidt,11.11.2026,48253.01,EUR,US01,Julia Schmidt,false
+5120263974,Sophie Krause,14.12.2026,23323.69,GBP,AT01,Tobias Weber,true
+5120263978,Tobias Weber,30.10.2026,44911.47,GBP,US01,Hannah Fischer,false
+5120263989,Sophie Krause,17.12.2026,1542.04,EUR,US01,Louis Dubois,false
+5120263994,Sophie Krause,31.12.2026,9314.97,EUR,US01,Louis Dubois,false
+5120264002,Eva van Dijk,07.11.2026,20797.74,GBP,FR03,Tobias Weber,false
+5120264006,Pieter Jansen,18.12.2026,5741.06,GBP,US01,Tobias Weber,true
+5120264016,Pieter Jansen,23.10.2026,49954.95,CHF,AT01,Tobias Weber,false
+5120264021,Tobias Weber,28.11.2026,1456.71,CHF,DE01,Julia Schmidt,false
+5120264026,Hannah Fischer,16.12.2026,22749.82,CHF,FR03,Claudia Nowak,false
+5120264035,Louis Dubois,05.10.2026,9940.04,CHF,FR03,Pieter Jansen,false
+5120264043,Marco Müller,13.12.2026,39624.10,CHF,CH01,Sophie Krause,false
+5120264051,Louis Dubois,03.10.2026,23684.12,USD,DE01,Sophie Krause,false
+5120264055,Anna Kowalski,10.12.2026,26780.27,EUR,FR03,Julia Schmidt,false
+5120264065,Eva van Dijk,25.12.2026,40434.36,EUR,DE01,Sophie Krause,false
+5120264071,Julia Schmidt,19.11.2026,25996.19,CHF,AT01,Claudia Nowak,false
+5120264075,Louis Dubois,01.11.2026,13073.25,USD,DE01,Claudia Nowak,true
+5120264083,Tobias Weber,08.11.2026,29762.92,EUR,FR03,Hannah Fischer,false
+5120264089,Hannah Fischer,06.10.2026,2789.34,CHF,CH01,Sophie Krause,false
+5120264097,Sophie Krause,17.12.2026,19965.77,CHF,NL01,Julia Schmidt,false
+5120264107,Tobias Weber,19.10.2026,24977.64,EUR,CH01,Claudia Nowak,false
+5120264111,Hannah Fischer,27.12.2026,38367.32,USD,US01,Anna Kowalski,false
+5120264119,Claudia Nowak,20.11.2026,48519.39,GBP,NL01,Pieter Jansen,false
+5120264126,Marco Müller,22.11.2026,36506.96,USD,US01,Anna Kowalski,true
+5120264135,Claudia Nowak,07.10.2026,39447.56,EUR,DE01,Claudia Nowak,false
+5120264143,Sophie Krause,09.11.2026,30811.07,EUR,NL01,Anna Kowalski,false
+5120264149,Julia Schmidt,05.12.2026,18313.47,EUR,DE02,Pieter Jansen,false
+5120264151,Claudia Nowak,04.11.2026,8113.54,EUR,DE01,Anna Kowalski,true
+5120264164,Eva van Dijk,22.10.2026,13029.81,USD,US01,Julia Schmidt,false
+5120264169,Hannah Fischer,14.11.2026,46949.09,USD,DE01,Hannah Fischer,false
+5120264173,Anna Kowalski,08.12.2026,15247.24,EUR,NL01,Eva van Dijk,false
+5120264183,Pieter Jansen,05.10.2026,-13937.08,EUR,NL01,Hannah Fischer,false
+5120264191,Hannah Fischer,17.10.2026,13899.49,USD,CH01,Louis Dubois,false
+5120264198,Tobias Weber,20.11.2026,39466.57,USD,AT01,Louis Dubois,false
+5120264202,Claudia Nowak,23.12.2026,32478.83,CHF,NL01,Julia Schmidt,false
+5120264213,Pieter Jansen,13.10.2026,41190.00,EUR,DE02,Pieter Jansen,false
+5120264217,Claudia Nowak,03.11.2026,40945.98,CHF,FR03,Claudia Nowak,false
+5120264224,Claudia Nowak,17.10.2026,16328.51,EUR,CH01,Claudia Nowak,true
+5120264229,Julia Schmidt,13.11.2026,7912.67,GBP,US01,Claudia Nowak,false
+5120264239,Louis Dubois,15.12.2026,34937.51,CHF,DE02,Tobias Weber,false
+5120264245,Hannah Fischer,20.10.2026,29939.78,EUR,NL01,Claudia Nowak,false
+5120264249,Sophie Krause,12.11.2026,30128.93,USD,CH01,Eva van Dijk,true
+5120264256,Pieter Jansen,10.10.2026,-40575.03,CHF,DE01,Hannah Fischer,false
+5120264265,Claudia Nowak,21.12.2026,6669.53,EUR,DE02,Pieter Jansen,false
+5120264275,Eva van Dijk,21.10.2026,23350.23,USD,AT01,Julia Schmidt,false
+5120264277,Pieter Jansen,31.12.2026,41984.55,EUR,AT01,Tobias Weber,false
+5120264284,Eva van Dijk,12.11.2026,2097.50,EUR,AT01,Louis Dubois,true
+5120264291,Marco Müller,09.12.2026,25132.23,EUR,AT01,Anna Kowalski,false
+5120264302,Sophie Krause,28.10.2026,3524.90,EUR,AT01,Marco Müller,false
+5120264306,Anna Kowalski,13.12.2026,19070.90,EUR,US01,Pieter Jansen,true
+5120264316,Sophie Krause,09.10.2026,37773.88,EUR,CH01,Pieter Jansen,true
+5120264321,Pieter Jansen,21.11.2026,44701.40,CHF,DE02,Hannah Fischer,false
+5120264332,Anna Kowalski,03.12.2026,696.16,EUR,US01,Sophie Krause,false
+5120264336,Pieter Jansen,31.10.2026,35773.99,EUR,DE01,Tobias Weber,true
+5120264340,Hannah Fischer,09.12.2026,17575.40,GBP,CH01,Julia Schmidt,true
+5120264352,Sophie Krause,11.12.2026,15270.34,EUR,CH01,Julia Schmidt,false
+5120264358,Tobias Weber,02.11.2026,49221.68,EUR,AT01,Eva van Dijk,false
+5120264363,Anna Kowalski,11.10.2026,28229.65,EUR,DE02,Hannah Fischer,false
+5120264370,Marco Müller,04.10.2026,39614.62,CHF,DE01,Anna Kowalski,false
+5120264379,Anna Kowalski,11.12.2026,42158.02,EUR,DE01,Eva van Dijk,true
+5120264387,Anna Kowalski,15.12.2026,24320.93,EUR,AT01,Julia Schmidt,false
+5120264393,Hannah Fischer,08.12.2026,22279.08,USD,FR03,Julia Schmidt,false
+5120264402,Sophie Krause,31.12.2026,19586.29,EUR,CH01,Louis Dubois,true
+5120264407,Hannah Fischer,26.11.2026,17155.94,EUR,US01,Louis Dubois,false
+5120264416,Louis Dubois,25.12.2026,41724.87,EUR,NL01,Hannah Fischer,false
+5120264421,Hannah Fischer,29.12.2026,31646.72,USD,US01,Hannah Fischer,false
+5120264429,Eva van Dijk,17.10.2026,36331.98,CHF,AT01,Sophie Krause,false
+5120264437,Julia Schmidt,10.12.2026,40541.38,CHF,DE01,Julia Schmidt,false
+5120264438,Marco Müller,18.10.2026,48651.85,EUR,DE02,Eva van Dijk,true
+5120264451,Pieter Jansen,29.10.2026,29541.92,CHF,AT01,Hannah Fischer,false
+5120264454,Claudia Nowak,11.11.2026,28932.87,EUR,CH01,Anna Kowalski,false
+5120264463,Julia Schmidt,11.10.2026,4989.55,EUR,DE01,Julia Schmidt,true
+5120264466,Tobias Weber,12.12.2026,3555.53,USD,DE02,Julia Schmidt,false
+5120264478,Marco Müller,03.12.2026,25525.25,EUR,CH01,Sophie Krause,false
+5120264483,Julia Schmidt,19.12.2026,16593.56,EUR,CH01,Sophie Krause,false
+5120264491,Anna Kowalski,01.12.2026,22897.95,USD,CH01,Claudia Nowak,false
+5120264500,Louis Dubois,25.11.2026,46515.35,GBP,AT01,Eva van Dijk,false
+5120264505,Pieter Jansen,29.11.2026,5022.05,EUR,CH01,Eva van Dijk,false
+5120264511,Anna Kowalski,06.11.2026,-42408.34,EUR,DE01,Anna Kowalski,false
+5120264515,Louis Dubois,08.12.2026,19053.76,EUR,US01,Louis Dubois,true
+5120264526,Sophie Krause,16.11.2026,11965.65,USD,FR03,Pieter Jansen,false
+5120264534,Tobias Weber,05.12.2026,30499.77,EUR,DE01,Eva van Dijk,false
+5120264540,Anna Kowalski,02.11.2026,33176.33,EUR,DE02,Claudia Nowak,false
+5120264547,Eva van Dijk,20.11.2026,26972.59,EUR,CH01,Anna Kowalski,false
+5120264555,Julia Schmidt,21.10.2026,-851.81,CHF,DE01,Louis Dubois,false
+5120264560,Eva van Dijk,22.11.2026,37271.98,GBP,DE02,Marco Müller,false
+5120264565,Pieter Jansen,20.11.2026,43433.53,GBP,NL01,Eva van Dijk,false
+5120264575,Marco Müller,28.11.2026,4037.21,USD,DE02,Tobias Weber,false
+5120264579,Julia Schmidt,05.11.2026,3083.68,EUR,US01,Claudia Nowak,false
+5120264585,Sophie Krause,15.12.2026,28903.04,CHF,US01,Tobias Weber,false
+5120264592,Anna Kowalski,01.10.2026,15387.05,USD,NL01,Hannah Fischer,false
+5120264603,Pieter Jansen,08.10.2026,2974.78,CHF,AT01,Marco Müller,false
+5120264606,Tobias Weber,13.11.2026,21306.09,EUR,AT01,Louis Dubois,false
+5120264618,Sophie Krause,21.10.2026,15045.91,USD,DE01,Sophie Krause,false
+5120264624,Hannah Fischer,19.11.2026,31463.45,EUR,CH01,Marco Müller,false
+5120264632,Julia Schmidt,01.12.2026,3714.57,GBP,US01,Claudia Nowak,false
+5120264638,Eva van Dijk,22.11.2026,-19158.50,USD,FR03,Anna Kowalski,false
+5120264642,Sophie Krause,14.12.2026,10566.99,EUR,NL01,Marco Müller,false
+5120264648,Anna Kowalski,17.10.2026,10619.62,EUR,NL01,Pieter Jansen,false
+5120264661,Anna Kowalski,03.12.2026,44535.06,EUR,AT01,Louis Dubois,false
+5120264668,Julia Schmidt,21.10.2026,37141.38,EUR,DE01,Tobias Weber,false
+5120264675,Tobias Weber,05.12.2026,8340.46,USD,US01,Marco Müller,false
+5120264680,Eva van Dijk,10.12.2026,17717.00,EUR,NL01,Claudia Nowak,false
+5120264689,Julia Schmidt,04.11.2026,7186.92,CHF,NL01,Claudia Nowak,true
+5120264690,Louis Dubois,07.12.2026,-45393.59,GBP,DE02,Marco Müller,false
+5120264701,Louis Dubois,06.11.2026,48008.60,EUR,US01,Anna Kowalski,true
+5120264707,Eva van Dijk,06.10.2026,10342.64,EUR,DE02,Pieter Jansen,false
+5120264711,Louis Dubois,11.11.2026,20697.65,EUR,FR03,Claudia Nowak,false
+5120264720,Anna Kowalski,05.12.2026,28715.90,EUR,AT01,Anna Kowalski,false
+5120264730,Louis Dubois,05.12.2026,-10211.49,EUR,DE02,Tobias Weber,false
+5120264737,Louis Dubois,13.11.2026,24090.79,GBP,US01,Louis Dubois,false
+5120264745,Marco Müller,18.11.2026,29435.20,EUR,US01,Louis Dubois,true
+5120264746,Anna Kowalski,08.11.2026,16310.90,EUR,AT01,Anna Kowalski,false
+5120264757,Hannah Fischer,03.11.2026,45728.88,EUR,CH01,Tobias Weber,false
+5120264760,Anna Kowalski,12.11.2026,34023.25,GBP,DE02,Hannah Fischer,true
+5120264771,Hannah Fischer,16.11.2026,25125.06,USD,DE02,Sophie Krause,false
+5120264777,Louis Dubois,26.10.2026,28364.66,USD,DE02,Eva van Dijk,true
+5120264786,Pieter Jansen,14.12.2026,34119.67,USD,AT01,Louis Dubois,false
+5120264789,Eva van Dijk,26.10.2026,31736.75,EUR,CH01,Eva van Dijk,false
+5120264799,Louis Dubois,09.12.2026,10551.41,GBP,NL01,Julia Schmidt,false
+5120264804,Pieter Jansen,22.11.2026,37843.20,GBP,DE01,Tobias Weber,false
+5120264815,Pieter Jansen,01.12.2026,8792.63,CHF,US01,Louis Dubois,false
+5120264822,Sophie Krause,16.12.2026,8018.87,USD,NL01,Sophie Krause,false
+5120264824,Julia Schmidt,18.11.2026,36083.01,EUR,AT01,Julia Schmidt,false
+5120264834,Claudia Nowak,22.10.2026,47945.15,CHF,FR03,Marco Müller,true
+5120264842,Sophie Krause,26.11.2026,19027.89,EUR,AT01,Marco Müller,false
+5120264848,Eva van Dijk,19.10.2026,5714.83,CHF,NL01,Julia Schmidt,false
+5120264851,Pieter Jansen,24.10.2026,33685.36,EUR,CH01,Anna Kowalski,false
+5120264859,Louis Dubois,20.11.2026,20426.48,EUR,FR03,Hannah Fischer,false
+5120264871,Hannah Fischer,31.10.2026,2858.27,USD,DE02,Sophie Krause,false
+5120264873,Eva van Dijk,05.10.2026,35306.30,EUR,DE01,Julia Schmidt,false
+5120264883,Claudia Nowak,08.10.2026,47229.28,CHF,DE01,Marco Müller,true
+5120264889,Louis Dubois,22.10.2026,-24533.88,EUR,DE01,Sophie Krause,false
+5120264896,Hannah Fischer,14.11.2026,3507.02,EUR,DE01,Eva van Dijk,true
+5120264904,Anna Kowalski,22.11.2026,22376.66,EUR,NL01,Pieter Jansen,true
+5120264910,Claudia Nowak,04.12.2026,41481.75,CHF,DE01,Eva van Dijk,false
+5120264918,Tobias Weber,28.11.2026,248.23,USD,DE01,Marco Müller,false
+5120264923,Claudia Nowak,23.11.2026,31391.83,EUR,DE01,Tobias Weber,true
+5120264931,Julia Schmidt,01.11.2026,6067.98,CHF,US01,Pieter Jansen,true
+5120264938,Claudia Nowak,27.11.2026,34747.53,CHF,AT01,Anna Kowalski,true
+5120264944,Louis Dubois,25.11.2026,17802.15,CHF,DE02,Tobias Weber,false
+5120264950,Pieter Jansen,13.10.2026,40702.05,CHF,FR03,Tobias Weber,false
+5120264958,Julia Schmidt,07.12.2026,46692.13,EUR,FR03,Louis Dubois,false
+5120264963,Louis Dubois,09.11.2026,24580.67,EUR,CH01,Anna Kowalski,false
+5120264971,Hannah Fischer,28.10.2026,40505.11,GBP,DE02,Julia Schmidt,false
+5120264979,Hannah Fischer,30.10.2026,35925.95,CHF,NL01,Eva van Dijk,false
+5120264984,Pieter Jansen,05.12.2026,48618.12,EUR,CH01,Tobias Weber,false
+5120264992,Anna Kowalski,11.12.2026,20947.19,EUR,CH01,Pieter Jansen,false
+5120265004,Sophie Krause,28.12.2026,42452.41,EUR,DE01,Eva van Dijk,false
+5120265007,Sophie Krause,31.10.2026,38169.02,EUR,DE02,Claudia Nowak,true
+5120265015,Claudia Nowak,18.12.2026,-47600.33,EUR,CH01,Claudia Nowak,false
+5120265019,Julia Schmidt,03.12.2026,13616.21,CHF,NL01,Hannah Fischer,false
+5120265031,Anna Kowalski,08.11.2026,-2032.99,USD,NL01,Hannah Fischer,false
+5120265036,Sophie Krause,09.12.2026,31914.23,CHF,DE01,Anna Kowalski,false
+5120265043,Louis Dubois,27.10.2026,14926.92,EUR,AT01,Louis Dubois,false
+5120265050,Tobias Weber,11.12.2026,28093.23,GBP,NL01,Anna Kowalski,true
+5120265054,Tobias Weber,01.10.2026,26763.13,GBP,NL01,Louis Dubois,true
+5120265063,Pieter Jansen,24.12.2026,20313.58,CHF,DE01,Marco Müller,false
+5120265069,Sophie Krause,04.10.2026,647.98,EUR,NL01,Hannah Fischer,false
+5120265078,Eva van Dijk,30.10.2026,28071.70,EUR,FR03,Sophie Krause,false
+5120265082,Louis Dubois,07.10.2026,2994.80,GBP,DE01,Louis Dubois,true
+5120265090,Anna Kowalski,26.10.2026,25983.28,EUR,DE01,Tobias Weber,false
+5120265102,Tobias Weber,18.11.2026,35088.72,GBP,CH01,Tobias Weber,false
+5120265104,Louis Dubois,02.10.2026,38934.55,GBP,CH01,Pieter Jansen,false
+5120265115,Anna Kowalski,18.12.2026,3768.20,CHF,CH01,Louis Dubois,false
+5120265120,Tobias Weber,17.11.2026,26445.66,EUR,DE02,Claudia Nowak,false
+5120265126,Tobias Weber,09.12.2026,8672.26,GBP,DE01,Hannah Fischer,false
+5120265134,Hannah Fischer,12.10.2026,21336.33,EUR,AT01,Anna Kowalski,false
+5120265142,Tobias Weber,21.10.2026,446.28,EUR,DE02,Julia Schmidt,false
+5120265150,Julia Schmidt,17.12.2026,20199.22,GBP,AT01,Anna Kowalski,false
+5120265156,Anna Kowalski,26.12.2026,10480.64,EUR,DE02,Julia Schmidt,true
+5120265163,Sophie Krause,26.10.2026,42167.43,EUR,FR03,Eva van Dijk,true
+5120265169,Marco Müller,27.11.2026,-14888.16,CHF,CH01,Claudia Nowak,false
+5120265177,Eva van Dijk,28.11.2026,24309.90,EUR,CH01,Marco Müller,false
+5120265182,Sophie Krause,09.12.2026,23092.01,GBP,NL01,Sophie Krause,false
+5120265187,Julia Schmidt,26.10.2026,-11356.69,EUR,NL01,Julia Schmidt,false
+5120265195,Eva van Dijk,04.10.2026,22546.99,CHF,US01,Louis Dubois,false
+5120265203,Anna Kowalski,25.11.2026,45342.28,EUR,FR03,Louis Dubois,true
+5120265214,Pieter Jansen,10.12.2026,46070.95,EUR,DE01,Sophie Krause,false
+5120265217,Anna Kowalski,23.11.2026,41900.55,GBP,AT01,Pieter Jansen,false
+5120265223,Eva van Dijk,03.12.2026,36933.94,EUR,US01,Claudia Nowak,false
+5120265231,Louis Dubois,08.11.2026,37360.23,EUR,DE01,Sophie Krause,false
+5120265236,Eva van Dijk,07.11.2026,20490.12,EUR,US01,Julia Schmidt,false
+5120265247,Marco Müller,30.11.2026,388.32,USD,DE01,Julia Schmidt,false
+5120265251,Tobias Weber,03.11.2026,8943.86,GBP,FR03,Hannah Fischer,false
+5120265260,Marco Müller,04.10.2026,-28122.72,EUR,NL01,Claudia Nowak,false
+5120265264,Pieter Jansen,24.10.2026,48361.72,USD,NL01,Marco Müller,false
+5120265277,Hannah Fischer,29.10.2026,80.47,CHF,CH01,Pieter Jansen,false
+5120265279,Anna Kowalski,16.11.2026,32319.79,EUR,DE02,Claudia Nowak,true
+5120265287,Louis Dubois,25.12.2026,4017.20,EUR,AT01,Louis Dubois,true
+5120265295,Tobias Weber,11.10.2026,31601.74,EUR,NL01,Louis Dubois,false
+5120265303,Louis Dubois,23.12.2026,15525.88,CHF,DE01,Marco Müller,false
+5120265310,Anna Kowalski,09.10.2026,-28426.61,EUR,US01,Eva van Dijk,false
+5120265317,Eva van Dijk,07.10.2026,36773.30,USD,DE02,Marco Müller,true
+5120265324,Julia Schmidt,23.12.2026,36788.60,USD,US01,Eva van Dijk,false
+5120265333,Marco Müller,25.11.2026,9791.83,USD,DE01,Sophie Krause,false
+5120265336,Claudia Nowak,07.11.2026,19050.76,EUR,FR03,Pieter Jansen,false
+5120265344,Louis Dubois,17.10.2026,8680.21,CHF,AT01,Tobias Weber,true
+5120265354,Anna Kowalski,08.10.2026,32566.93,CHF,DE02,Anna Kowalski,false
+5120265357,Claudia Nowak,11.12.2026,43927.25,EUR,DE02,Eva van Dijk,false
+5120265364,Eva van Dijk,02.12.2026,37339.17,CHF,AT01,Julia Schmidt,false
+5120265373,Hannah Fischer,26.10.2026,15517.57,EUR,CH01,Marco Müller,true
+5120265380,Sophie Krause,28.11.2026,33050.38,EUR,FR03,Julia Schmidt,true
+5120265384,Marco Müller,01.10.2026,-15363.99,EUR,NL01,Sophie Krause,true
+5120265394,Tobias Weber,29.11.2026,11590.89,EUR,DE01,Hannah Fischer,true
+5120265398,Anna Kowalski,30.12.2026,47362.45,USD,DE02,Hannah Fischer,false
+5120265406,Eva van Dijk,05.11.2026,41363.21,EUR,AT01,Tobias Weber,true
+5120265416,Sophie Krause,25.12.2026,42945.20,EUR,DE01,Louis Dubois,false
+5120265421,Tobias Weber,16.12.2026,19428.79,USD,DE01,Hannah Fischer,false
+5120265425,Hannah Fischer,29.12.2026,11040.86,EUR,US01,Marco Müller,false
+5120265432,Pieter Jansen,24.12.2026,4804.42,CHF,DE02,Eva van Dijk,false
+5120265442,Marco Müller,07.12.2026,2295.75,EUR,US01,Eva van Dijk,false
+5120265450,Julia Schmidt,09.10.2026,46071.88,EUR,AT01,Tobias Weber,false
+5120265456,Claudia Nowak,25.12.2026,15474.25,GBP,FR03,Eva van Dijk,false
+5120265463,Louis Dubois,02.12.2026,15702.36,EUR,NL01,Claudia Nowak,false
+5120265470,Sophie Krause,09.10.2026,25742.20,USD,CH01,Marco Müller,false
+5120265480,Hannah Fischer,02.12.2026,7823.75,USD,AT01,Marco Müller,false
+5120265486,Hannah Fischer,05.11.2026,13279.69,EUR,DE01,Pieter Jansen,false
+5120265488,Anna Kowalski,03.12.2026,47439.06,EUR,DE01,Anna Kowalski,false
+5120265495,Pieter Jansen,08.10.2026,26152.61,GBP,DE01,Anna Kowalski,false
+5120265508,Anna Kowalski,09.12.2026,23468.21,USD,DE02,Tobias Weber,false
+5120265509,Hannah Fischer,07.10.2026,31501.78,EUR,DE01,Claudia Nowak,true
+5120265521,Pieter Jansen,04.12.2026,22357.72,EUR,NL01,Anna Kowalski,false
+5120265523,Hannah Fischer,07.10.2026,7387.18,CHF,AT01,Hannah Fischer,false
+5120265530,Louis Dubois,05.10.2026,32653.46,EUR,DE02,Marco Müller,false
+5120265537,Sophie Krause,03.10.2026,28597.65,GBP,FR03,Tobias Weber,false
+5120265548,Pieter Jansen,11.11.2026,40222.16,EUR,NL01,Sophie Krause,false
+5120265556,Tobias Weber,24.12.2026,34796.05,EUR,US01,Sophie Krause,true
+5120265559,Tobias Weber,11.12.2026,-32342.73,EUR,CH01,Eva van Dijk,false
+5120265568,Tobias Weber,22.12.2026,38110.71,EUR,NL01,Sophie Krause,true
+5120265578,Tobias Weber,01.10.2026,41882.19,CHF,DE02,Sophie Krause,true
+5120265584,Eva van Dijk,10.10.2026,44919.87,EUR,CH01,Claudia Nowak,true
+5120265590,Claudia Nowak,27.10.2026,13458.99,EUR,AT01,Hannah Fischer,false
+5120265595,Pieter Jansen,22.10.2026,25730.16,USD,NL01,Sophie Krause,false
+5120265602,Anna Kowalski,23.10.2026,-11025.42,GBP,US01,Anna Kowalski,true
+5120265610,Marco Müller,28.12.2026,12571.68,CHF,NL01,Tobias Weber,false
+5120265614,Marco Müller,06.11.2026,48558.33,CHF,DE02,Pieter Jansen,true
+5120265627,Marco Müller,07.11.2026,1550.52,CHF,DE02,Claudia Nowak,false
+5120265629,Louis Dubois,12.11.2026,36983.79,EUR,DE01,Tobias Weber,false
+5120265640,Louis Dubois,31.12.2026,17416.82,EUR,DE02,Hannah Fischer,false
+5120265643,Marco Müller,05.12.2026,23989.63,EUR,AT01,Julia Schmidt,true
+5120265651,Louis Dubois,04.12.2026,-43757.30,USD,US01,Marco Müller,false
+5120265656,Anna Kowalski,22.11.2026,37036.66,GBP,NL01,Louis Dubois,false
+5120265666,Louis Dubois,19.12.2026,38413.57,CHF,DE01,Tobias Weber,false
+5120265672,Sophie Krause,18.10.2026,2954.31,USD,AT01,Louis Dubois,false
+5120265678,Anna Kowalski,01.11.2026,11143.10,EUR,CH01,Julia Schmidt,false
+5120265686,Marco Müller,30.10.2026,47444.98,USD,NL01,Eva van Dijk,false
+5120265691,Hannah Fischer,06.10.2026,18704.70,CHF,AT01,Louis Dubois,false
+5120265698,Julia Schmidt,04.12.2026,48240.79,EUR,CH01,Julia Schmidt,false
+5120265710,Marco Müller,17.10.2026,26803.68,EUR,DE02,Louis Dubois,false
+5120265718,Anna Kowalski,29.10.2026,47398.09,EUR,US01,Marco Müller,false
+5120265725,Tobias Weber,06.11.2026,2214.16,EUR,NL01,Julia Schmidt,false
+5120265729,Pieter Jansen,15.11.2026,9402.46,EUR,DE02,Marco Müller,true
+5120265733,Tobias Weber,03.12.2026,13110.26,EUR,CH01,Claudia Nowak,false
+5120265745,Tobias Weber,01.12.2026,29403.27,EUR,DE02,Pieter Jansen,true
+5120265750,Sophie Krause,10.10.2026,26040.34,GBP,FR03,Hannah Fischer,false
+5120265756,Hannah Fischer,12.10.2026,20660.75,EUR,FR03,Tobias Weber,false
+5120265764,Eva van Dijk,25.12.2026,2166.00,USD,DE02,Sophie Krause,false
+5120265768,Hannah Fischer,18.11.2026,-27546.11,EUR,NL01,Hannah Fischer,false
+5120265780,Sophie Krause,09.11.2026,15264.85,EUR,NL01,Pieter Jansen,false
+5120265786,Eva van Dijk,25.10.2026,-4886.13,CHF,FR03,Tobias Weber,false
+5120265790,Marco Müller,07.11.2026,-47027.58,EUR,DE02,Claudia Nowak,false
+5120265799,Louis Dubois,08.11.2026,32055.02,GBP,DE02,Eva van Dijk,false
+5120265806,Anna Kowalski,27.11.2026,12813.14,GBP,US01,Hannah Fischer,false
+5120265810,Anna Kowalski,30.12.2026,338.59,CHF,CH01,Louis Dubois,false
+5120265821,Tobias Weber,18.11.2026,47133.51,EUR,CH01,Tobias Weber,false
+5120265828,Julia Schmidt,20.10.2026,4178.89,EUR,US01,Hannah Fischer,false
+5120265832,Tobias Weber,04.10.2026,31089.19,EUR,FR03,Claudia Nowak,false
+5120265838,Anna Kowalski,10.10.2026,20286.71,USD,US01,Louis Dubois,false
+5120265845,Louis Dubois,11.11.2026,-38788.22,CHF,NL01,Pieter Jansen,false
+5120265856,Anna Kowalski,10.12.2026,400.90,EUR,FR03,Julia Schmidt,false
+5120265865,Louis Dubois,18.11.2026,42124.49,GBP,AT01,Eva van Dijk,false
+5120265872,Tobias Weber,25.11.2026,18682.88,GBP,DE02,Sophie Krause,false
+5120265876,Anna Kowalski,07.12.2026,44893.48,EUR,AT01,Marco Müller,true
+5120265883,Anna Kowalski,11.11.2026,14240.48,EUR,DE01,Marco Müller,false
+5120265892,Anna Kowalski,12.10.2026,12571.46,EUR,DE01,Pieter Jansen,true
+5120265894,Marco Müller,24.11.2026,25415.43,EUR,DE01,Eva van Dijk,true
+5120265905,Eva van Dijk,26.11.2026,41118.00,CHF,CH01,Hannah Fischer,false
+5120265912,Anna Kowalski,20.11.2026,8520.59,EUR,NL01,Claudia Nowak,false
+5120265915,Marco Müller,14.11.2026,10960.00,CHF,DE01,Marco Müller,true
+5120265927,Louis Dubois,01.11.2026,12610.48,CHF,US01,Marco Müller,false
+5120265934,Louis Dubois,19.10.2026,11603.43,EUR,AT01,Hannah Fischer,false
+5120265937,Pieter Jansen,21.12.2026,31086.02,EUR,NL01,Anna Kowalski,false
+5120265945,Hannah Fischer,27.12.2026,39925.32,EUR,DE01,Claudia Nowak,false
+5120265951,Pieter Jansen,26.11.2026,24494.37,USD,US01,Louis Dubois,false
+5120265961,Sophie Krause,25.10.2026,1404.24,USD,DE01,Pieter Jansen,false
+5120265967,Pieter Jansen,01.12.2026,14046.06,CHF,DE01,Anna Kowalski,false
+5120265975,Marco Müller,17.10.2026,-11594.35,EUR,FR03,Louis Dubois,false
+5120265984,Hannah Fischer,13.10.2026,10587.08,GBP,NL01,Anna Kowalski,false
+5120265985,Tobias Weber,27.10.2026,34963.48,USD,US01,Pieter Jansen,false
+5120265994,Louis Dubois,01.12.2026,36080.22,EUR,US01,Marco Müller,false
+5120266005,Claudia Nowak,24.11.2026,1752.80,USD,CH01,Tobias Weber,false
+5120266007,Louis Dubois,05.10.2026,18769.15,EUR,NL01,Tobias Weber,false
+5120266017,Tobias Weber,22.10.2026,-26883.68,CHF,DE01,Louis Dubois,false
+5120266020,Sophie Krause,05.10.2026,30996.64,EUR,NL01,Sophie Krause,true
+5120266033,Claudia Nowak,06.10.2026,-37854.66,EUR,FR03,Louis Dubois,true
+5120266040,Eva van Dijk,20.11.2026,26995.81,CHF,CH01,Pieter Jansen,false
+5120266047,Tobias Weber,20.10.2026,49436.93,EUR,US01,Julia Schmidt,false
+5120266050,Louis Dubois,26.11.2026,34281.78,EUR,DE01,Marco Müller,true
+5120266055,Julia Schmidt,24.11.2026,48211.15,EUR,US01,Sophie Krause,false
+5120266067,Hannah Fischer,18.12.2026,1226.75,EUR,DE01,Claudia Nowak,true
+5120266070,Louis Dubois,17.10.2026,9080.70,EUR,DE02,Julia Schmidt,false
+5120266077,Sophie Krause,31.12.2026,44946.12,GBP,FR03,Eva van Dijk,true
+5120266087,Hannah Fischer,09.11.2026,38917.38,EUR,DE01,Julia Schmidt,false
+5120266093,Eva van Dijk,12.12.2026,41257.64,EUR,FR03,Claudia Nowak,false
+5120266098,Tobias Weber,07.12.2026,34644.14,GBP,AT01,Sophie Krause,false
+5120266108,Hannah Fischer,26.11.2026,18579.26,CHF,CH01,Louis Dubois,true
+5120266114,Tobias Weber,05.12.2026,11135.31,CHF,DE01,Louis Dubois,false
+5120266121,Marco Müller,10.10.2026,4495.34,EUR,DE01,Anna Kowalski,false
+5120266131,Marco Müller,28.12.2026,12795.29,USD,DE02,Tobias Weber,false
+5120266133,Julia Schmidt,16.11.2026,41610.92,EUR,AT01,Hannah Fischer,false
+5120266144,Eva van Dijk,29.11.2026,12424.87,USD,DE02,Sophie Krause,false
+5120266150,Sophie Krause,03.12.2026,41886.93,USD,DE01,Tobias Weber,false
+5120266154,Tobias Weber,15.12.2026,11393.85,EUR,NL01,Tobias Weber,false
+5120266163,Pieter Jansen,26.11.2026,37669.36,CHF,DE02,Claudia Nowak,false
+5120266172,Marco Müller,10.11.2026,10856.26,CHF,FR03,Eva van Dijk,true
+5120266177,Sophie Krause,20.12.2026,36919.25,EUR,US01,Tobias Weber,false
+5120266187,Sophie Krause,10.10.2026,29910.69,EUR,CH01,Marco Müller,false
+5120266194,Pieter Jansen,09.12.2026,37380.17,EUR,DE01,Pieter Jansen,false
+5120266199,Louis Dubois,16.12.2026,31881.53,CHF,US01,Anna Kowalski,false
+5120266207,Louis Dubois,26.11.2026,2237.78,EUR,DE02,Hannah Fischer,false
+5120266212,Pieter Jansen,16.11.2026,24318.62,GBP,FR03,Anna Kowalski,false
+5120266216,Sophie Krause,18.12.2026,19606.44,CHF,CH01,Louis Dubois,true
+5120266224,Louis Dubois,01.11.2026,23410.75,EUR,FR03,Claudia Nowak,false
+5120266233,Hannah Fischer,04.11.2026,13530.41,EUR,DE02,Louis Dubois,false
+5120266239,Pieter Jansen,20.10.2026,44824.15,GBP,US01,Tobias Weber,false
+5120266248,Anna Kowalski,14.10.2026,38052.68,EUR,NL01,Tobias Weber,false
+5120266251,Sophie Krause,08.10.2026,20526.12,EUR,CH01,Eva van Dijk,false
+5120266261,Hannah Fischer,14.11.2026,24081.69,CHF,FR03,Anna Kowalski,true
+5120266271,Hannah Fischer,28.11.2026,41144.97,CHF,NL01,Sophie Krause,false
+5120266278,Louis Dubois,23.11.2026,44302.43,CHF,CH01,Eva van Dijk,false
+5120266283,Tobias Weber,19.11.2026,24855.13,EUR,NL01,Sophie Krause,false
+5120266290,Claudia Nowak,04.10.2026,-18178.98,EUR,DE02,Anna Kowalski,true
+5120266298,Claudia Nowak,05.12.2026,6399.72,EUR,NL01,Pieter Jansen,false
+5120266305,Claudia Nowak,18.12.2026,-10102.36,EUR,FR03,Marco Müller,false
+5120266308,Hannah Fischer,01.12.2026,-15175.18,EUR,DE02,Julia Schmidt,false
+5120266320,Tobias Weber,22.12.2026,37354.23,USD,DE01,Sophie Krause,false
+5120266323,Sophie Krause,01.10.2026,16256.17,EUR,DE02,Sophie Krause,false
+5120266332,Hannah Fischer,27.11.2026,-45319.33,EUR,FR03,Louis Dubois,true
+5120266340,Anna Kowalski,29.11.2026,-11476.52,EUR,US01,Anna Kowalski,false
+5120266342,Julia Schmidt,25.10.2026,20438.92,EUR,US01,Eva van Dijk,false
+5120266351,Julia Schmidt,28.12.2026,1000.22,EUR,AT01,Eva van Dijk,false
+5120266358,Claudia Nowak,17.11.2026,27162.87,EUR,CH01,Tobias Weber,false
+5120266363,Anna Kowalski,15.11.2026,8894.22,USD,CH01,Julia Schmidt,true
+5120266375,Pieter Jansen,29.12.2026,29418.10,USD,US01,Anna Kowalski,false
+5120266383,Hannah Fischer,13.12.2026,10394.76,EUR,FR03,Tobias Weber,false
+5120266390,Claudia Nowak,11.11.2026,3571.72,EUR,FR03,Hannah Fischer,true
+5120266392,Claudia Nowak,28.11.2026,15836.91,USD,US01,Anna Kowalski,false
+5120266402,Pieter Jansen,12.11.2026,16070.81,CHF,AT01,Marco Müller,false
+5120266410,Louis Dubois,18.12.2026,22376.36,EUR,DE02,Anna Kowalski,false
+5120266416,Eva van Dijk,19.12.2026,3103.83,USD,NL01,Hannah Fischer,false
+5120266422,Sophie Krause,24.12.2026,20776.90,GBP,DE01,Claudia Nowak,false
+5120266426,Marco Müller,02.10.2026,45012.45,CHF,NL01,Pieter Jansen,false
+5120266437,Pieter Jansen,14.11.2026,29104.10,USD,NL01,Hannah Fischer,false
+5120266440,Anna Kowalski,12.10.2026,-23144.63,EUR,AT01,Marco Müller,false
+5120266451,Louis Dubois,16.10.2026,48790.65,CHF,CH01,Hannah Fischer,false
+5120266460,Julia Schmidt,16.10.2026,12802.37,EUR,FR03,Marco Müller,false
+5120266464,Sophie Krause,03.11.2026,-36974.10,EUR,DE02,Pieter Jansen,false
+5120266474,Sophie Krause,28.10.2026,42065.10,USD,CH01,Hannah Fischer,false
+5120266479,Marco Müller,07.12.2026,14599.02,EUR,US01,Marco Müller,true
+5120266483,Claudia Nowak,02.12.2026,48692.85,CHF,US01,Sophie Krause,false
+5120266492,Tobias Weber,09.10.2026,39822.54,USD,AT01,Pieter Jansen,false
+5120266501,Julia Schmidt,09.10.2026,2332.67,EUR,US01,Hannah Fischer,false
+5120266506,Julia Schmidt,09.10.2026,46883.96,CHF,AT01,Claudia Nowak,false
+5120266512,Anna Kowalski,21.11.2026,43978.14,EUR,DE02,Pieter Jansen,false
+5120266517,Pieter Jansen,06.11.2026,47566.98,EUR,AT01,Eva van Dijk,false
+5120266530,Louis Dubois,15.11.2026,-25122.34,EUR,US01,Anna Kowalski,true
+5120266531,Tobias Weber,10.10.2026,25662.58,GBP,CH01,Julia Schmidt,false
+5120266540,Anna Kowalski,14.10.2026,25013.81,EUR,DE02,Julia Schmidt,true
+5120266549,Julia Schmidt,19.11.2026,1420.80,GBP,US01,Hannah Fischer,true
+5120266558,Pieter Jansen,20.10.2026,31219.01,CHF,DE01,Tobias Weber,false
+5120266562,Hannah Fischer,10.12.2026,42874.45,GBP,DE01,Tobias Weber,false
+5120266572,Pieter Jansen,06.11.2026,11233.67,EUR,AT01,Hannah Fischer,false
+5120266573,Julia Schmidt,23.10.2026,14028.46,EUR,DE02,Eva van Dijk,false
+5120266586,Pieter Jansen,12.11.2026,-12876.16,EUR,DE01,Pieter Jansen,false
+5120266590,Marco Müller,24.10.2026,6757.01,EUR,FR03,Marco Müller,false
+5120266599,Hannah Fischer,04.12.2026,7965.21,USD,DE01,Tobias Weber,false
+5120266606,Eva van Dijk,14.11.2026,-40412.54,EUR,FR03,Hannah Fischer,false
+5120266613,Tobias Weber,13.12.2026,10638.17,EUR,NL01,Louis Dubois,false
+5120266619,Pieter Jansen,17.11.2026,4501.81,EUR,DE01,Claudia Nowak,false
+5120266626,Julia Schmidt,06.12.2026,33765.08,GBP,FR03,Louis Dubois,true
+5120266632,Claudia Nowak,08.12.2026,-47530.06,EUR,DE01,Sophie Krause,true
+5120266641,Claudia Nowak,09.10.2026,23188.64,EUR,AT01,Marco Müller,false
+5120266643,Pieter Jansen,05.12.2026,19837.95,GBP,CH01,Louis Dubois,false
+5120266652,Eva van Dijk,07.11.2026,30246.58,EUR,CH01,Pieter Jansen,false
+5120266657,Marco Müller,11.11.2026,35070.30,CHF,NL01,Pieter Jansen,true
+5120266669,Tobias Weber,15.12.2026,46204.78,USD,US01,Eva van Dijk,false
+5120266677,Anna Kowalski,16.11.2026,3095.55,USD,AT01,Louis Dubois,true
+5120266681,Marco Müller,19.12.2026,15993.72,EUR,DE02,Claudia Nowak,false
+5120266691,Eva van Dijk,06.10.2026,-3484.02,EUR,AT01,Anna Kowalski,false
+5120266696,Hannah Fischer,21.12.2026,43535.52,EUR,AT01,Anna Kowalski,false
+5120266702,Sophie Krause,18.11.2026,-29760.70,GBP,FR03,Louis Dubois,false
+5120266708,Louis Dubois,27.12.2026,14847.82,EUR,AT01,Tobias Weber,true
+5120266713,Tobias Weber,10.12.2026,22242.97,EUR,NL01,Julia Schmidt,true
+5120266720,Sophie Krause,23.10.2026,25240.45,USD,FR03,Tobias Weber,false
+5120266730,Claudia Nowak,25.11.2026,29123.41,EUR,DE02,Anna Kowalski,false
+5120266739,Hannah Fischer,21.10.2026,37466.62,CHF,CH01,Claudia Nowak,false
+5120266745,Julia Schmidt,18.10.2026,9145.30,CHF,DE01,Pieter Jansen,false
+5120266753,Eva van Dijk,07.11.2026,7998.62,GBP,CH01,Sophie Krause,true
+5120266759,Louis Dubois,19.12.2026,204.19,EUR,FR03,Sophie Krause,false
+5120266764,Hannah Fischer,29.11.2026,46102.00,USD,DE01,Julia Schmidt,false
+5120266771,Julia Schmidt,03.12.2026,21798.52,EUR,NL01,Claudia Nowak,false
+5120266781,Anna Kowalski,11.10.2026,33894.08,EUR,NL01,Sophie Krause,false
+5120266788,Tobias Weber,04.11.2026,16364.09,EUR,DE01,Marco Müller,false
+5120266793,Eva van Dijk,09.12.2026,18686.74,EUR,CH01,Anna Kowalski,false
+5120266797,Julia Schmidt,16.12.2026,23945.55,EUR,AT01,Anna Kowalski,false
+5120266807,Eva van Dijk,05.11.2026,9792.45,GBP,FR03,Eva van Dijk,false
+5120266811,Claudia Nowak,21.10.2026,49782.44,CHF,DE02,Hannah Fischer,false
+5120266820,Claudia Nowak,08.12.2026,4886.07,GBP,FR03,Julia Schmidt,false
+5120266830,Eva van Dijk,19.11.2026,30304.55,EUR,DE01,Sophie Krause,false
+5120266837,Pieter Jansen,09.10.2026,16526.20,CHF,US01,Pieter Jansen,false
+5120266843,Tobias Weber,30.10.2026,20030.53,CHF,DE02,Hannah Fischer,false
+5120266849,Marco Müller,28.12.2026,-24233.32,GBP,US01,Claudia Nowak,false
+5120266853,Claudia Nowak,13.12.2026,44352.76,USD,NL01,Pieter Jansen,false
+5120266865,Marco Müller,22.10.2026,-31400.38,EUR,US01,Hannah Fischer,false
+5120266872,Marco Müller,31.10.2026,48264.57,GBP,US01,Eva van Dijk,false
+5120266875,Hannah Fischer,07.12.2026,32967.22,EUR,FR03,Hannah Fischer,false
+5120266887,Marco Müller,22.10.2026,18811.66,CHF,DE01,Pieter Jansen,false
+5120266893,Pieter Jansen,23.12.2026,19515.89,USD,FR03,Eva van Dijk,false
+5120266897,Tobias Weber,17.10.2026,16875.01,USD,CH01,Anna Kowalski,false
+5120266906,Hannah Fischer,08.11.2026,30010.92,GBP,FR03,Sophie Krause,false
+5120266910,Sophie Krause,06.12.2026,30333.12,EUR,DE01,Sophie Krause,false
+5120266918,Pieter Jansen,22.12.2026,5890.21,EUR,DE02,Pieter Jansen,false
+5120266926,Eva van Dijk,02.12.2026,18810.69,EUR,DE02,Anna Kowalski,true
+5120266930,Pieter Jansen,14.11.2026,-4627.47,GBP,FR03,Louis Dubois,false
+5120266939,Pieter Jansen,14.11.2026,29418.81,CHF,NL01,Tobias Weber,false
+5120266945,Sophie Krause,24.11.2026,47049.03,EUR,FR03,Pieter Jansen,false
+5120266957,Julia Schmidt,24.11.2026,7075.08,CHF,AT01,Claudia Nowak,false
+5120266961,Tobias Weber,28.12.2026,4756.99,EUR,DE01,Eva van Dijk,false
+5120266971,Marco Müller,26.11.2026,47337.62,GBP,NL01,Hannah Fischer,false
+5120266974,Anna Kowalski,17.11.2026,-24785.18,EUR,FR03,Pieter Jansen,false
+5120266981,Marco Müller,10.11.2026,12179.70,CHF,DE01,Louis Dubois,false
+5120266986,Pieter Jansen,26.12.2026,-29646.57,USD,DE01,Marco Müller,false
+5120266999,Sophie Krause,23.10.2026,1676.91,USD,DE01,Julia Schmidt,true
+5120267003,Marco Müller,16.10.2026,-37159.91,EUR,CH01,Louis Dubois,false
+5120267009,Pieter Jansen,27.12.2026,48529.11,CHF,DE01,Julia Schmidt,false
+5120267020,Claudia Nowak,19.12.2026,37040.92,GBP,FR03,Anna Kowalski,true
+5120267021,Anna Kowalski,06.10.2026,36144.01,EUR,US01,Sophie Krause,true
+5120267030,Hannah Fischer,22.12.2026,29986.10,GBP,US01,Hannah Fischer,false
+5120267037,Eva van Dijk,21.12.2026,32976.42,EUR,DE02,Tobias Weber,false
+5120267042,Pieter Jansen,10.12.2026,40482.65,GBP,FR03,Sophie Krause,false
+5120267054,Tobias Weber,20.12.2026,22826.34,GBP,US01,Eva van Dijk,false
+5120267059,Hannah Fischer,05.12.2026,42323.17,EUR,DE02,Pieter Jansen,false
+5120267068,Hannah Fischer,26.12.2026,44083.18,CHF,CH01,Claudia Nowak,false
+5120267076,Louis Dubois,17.11.2026,27904.14,CHF,CH01,Marco Müller,false
+5120267082,Hannah Fischer,21.11.2026,42855.46,EUR,AT01,Claudia Nowak,false
+5120267089,Marco Müller,04.12.2026,19671.41,EUR,NL01,Hannah Fischer,false
+5120267097,Eva van Dijk,08.10.2026,26179.48,EUR,NL01,Hannah Fischer,true
+5120267100,Anna Kowalski,25.10.2026,28062.71,EUR,NL01,Marco Müller,false
+5120267105,Hannah Fischer,08.12.2026,35365.90,GBP,DE02,Julia Schmidt,false
+5120267118,Julia Schmidt,27.10.2026,20231.26,EUR,FR03,Anna Kowalski,false
+5120267124,Marco Müller,23.11.2026,31165.79,EUR,CH01,Tobias Weber,true
+5120267132,Claudia Nowak,26.11.2026,16018.75,EUR,DE02,Pieter Jansen,false
+5120267133,Sophie Krause,18.11.2026,-12890.40,GBP,AT01,Claudia Nowak,false
+5120267143,Tobias Weber,05.10.2026,10846.58,EUR,DE01,Hannah Fischer,false
+5120267153,Hannah Fischer,30.12.2026,24427.40,EUR,FR03,Louis Dubois,false
+5120267160,Tobias Weber,20.10.2026,34979.58,EUR,US01,Hannah Fischer,false
+5120267164,Marco Müller,14.10.2026,1515.48,USD,DE01,Eva van Dijk,true
+5120267169,Tobias Weber,02.12.2026,7042.76,EUR,FR03,Eva van Dijk,false
+5120267181,Claudia Nowak,25.12.2026,41324.72,EUR,CH01,Hannah Fischer,false
+5120267182,Anna Kowalski,09.10.2026,6783.54,USD,CH01,Pieter Jansen,false
+5120267195,Sophie Krause,14.10.2026,25893.80,EUR,FR03,Marco Müller,true
+5120267201,Louis Dubois,01.12.2026,34270.59,GBP,US01,Julia Schmidt,false
+5120267209,Claudia Nowak,24.10.2026,12839.36,EUR,US01,Pieter Jansen,true
+5120267214,Eva van Dijk,18.10.2026,42089.27,EUR,FR03,Pieter Jansen,false
+5120267218,Anna Kowalski,13.12.2026,16761.18,EUR,FR03,Marco Müller,false
+5120267224,Marco Müller,28.11.2026,7350.13,EUR,AT01,Anna Kowalski,false
+5120267232,Louis Dubois,22.10.2026,4240.21,CHF,NL01,Julia Schmidt,false
+5120267241,Marco Müller,06.10.2026,39129.73,GBP,NL01,Hannah Fischer,false
+5120267250,Hannah Fischer,25.12.2026,-23158.40,EUR,DE01,Hannah Fischer,false
+5120267254,Hannah Fischer,05.10.2026,40856.47,CHF,DE02,Julia Schmidt,false
+5120267261,Sophie Krause,09.12.2026,38508.43,EUR,NL01,Anna Kowalski,true
+5120267267,Sophie Krause,02.10.2026,44512.53,EUR,CH01,Sophie Krause,false
+5120267274,Tobias Weber,10.10.2026,33861.67,USD,CH01,Claudia Nowak,false
+5120267280,Marco Müller,14.11.2026,-42390.40,CHF,DE02,Eva van Dijk,false
+5120267291,Sophie Krause,25.10.2026,16931.38,EUR,FR03,Tobias Weber,false
+5120267296,Julia Schmidt,11.11.2026,43974.58,EUR,FR03,Marco Müller,false
+5120267307,Pieter Jansen,18.10.2026,5364.89,CHF,CH01,Anna Kowalski,true
+5120267312,Pieter Jansen,15.12.2026,22324.56,EUR,AT01,Claudia Nowak,false
+5120267316,Louis Dubois,03.11.2026,-26228.82,EUR,DE01,Louis Dubois,false
+5120267324,Anna Kowalski,28.10.2026,5866.51,CHF,CH01,Louis Dubois,false
+5120267330,Marco Müller,18.10.2026,4445.97,EUR,US01,Anna Kowalski,false
+5120267341,Louis Dubois,13.12.2026,610.52,EUR,DE01,Sophie Krause,false
+5120267343,Claudia Nowak,10.10.2026,34077.81,USD,DE02,Anna Kowalski,false
+5120267355,Eva van Dijk,25.10.2026,26239.89,EUR,CH01,Julia Schmidt,true
+5120267360,Louis Dubois,25.11.2026,6233.54,EUR,NL01,Marco Müller,false
+5120267369,Tobias Weber,20.11.2026,42881.28,EUR,NL01,Julia Schmidt,true
+5120267375,Eva van Dijk,20.10.2026,10505.04,USD,DE02,Pieter Jansen,false
+5120267381,Tobias Weber,11.10.2026,5187.33,GBP,DE02,Claudia Nowak,false
+5120267386,Claudia Nowak,12.11.2026,17647.71,EUR,AT01,Tobias Weber,false
+5120267394,Anna Kowalski,11.10.2026,32599.45,EUR,FR03,Marco Müller,false
+5120267403,Eva van Dijk,08.12.2026,9645.76,USD,US01,Julia Schmidt,false
+5120267409,Marco Müller,01.11.2026,38142.97,GBP,AT01,Hannah Fischer,true
+5120267414,Eva van Dijk,05.12.2026,27025.23,CHF,CH01,Julia Schmidt,false
+5120267424,Marco Müller,13.12.2026,43002.73,GBP,CH01,Marco Müller,false
+5120267433,Sophie Krause,29.12.2026,6439.81,EUR,FR03,Pieter Jansen,false
+5120267439,Hannah Fischer,18.10.2026,49451.59,EUR,AT01,Hannah Fischer,true
+5120267445,Marco Müller,21.12.2026,14097.59,EUR,DE01,Marco Müller,false
+5120267452,Julia Schmidt,28.11.2026,25611.88,EUR,US01,Pieter Jansen,false
+5120267457,Claudia Nowak,16.12.2026,33338.77,CHF,CH01,Julia Schmidt,false
+5120267464,Claudia Nowak,01.10.2026,5071.59,GBP,AT01,Marco Müller,false
+5120267470,Louis Dubois,26.11.2026,47738.12,EUR,CH01,Marco Müller,true
+5120267482,Louis Dubois,20.10.2026,11021.78,EUR,DE02,Julia Schmidt,false
+5120267488,Pieter Jansen,20.12.2026,18708.65,GBP,NL01,Claudia Nowak,false
+5120267495,Tobias Weber,26.10.2026,15864.54,GBP,DE02,Tobias Weber,true
+5120267501,Claudia Nowak,11.12.2026,29035.41,CHF,NL01,Anna Kowalski,false
+5120267507,Marco Müller,31.12.2026,-31433.77,EUR,NL01,Louis Dubois,false
+5120267515,Eva van Dijk,05.10.2026,7784.51,CHF,DE02,Anna Kowalski,false
+5120267520,Anna Kowalski,20.12.2026,16770.27,GBP,DE02,Tobias Weber,false
+5120267526,Tobias Weber,17.11.2026,13317.06,CHF,CH01,Julia Schmidt,false
+5120267533,Julia Schmidt,01.10.2026,23148.70,EUR,FR03,Marco Müller,false
+5120267541,Eva van Dijk,13.10.2026,28503.11,EUR,DE02,Pieter Jansen,false
+5120267546,Marco Müller,13.10.2026,12155.02,CHF,US01,Anna Kowalski,false
+5120267556,Eva van Dijk,05.12.2026,20304.85,EUR,FR03,Marco Müller,false
+5120267562,Julia Schmidt,12.12.2026,-5178.10,CHF,FR03,Tobias Weber,true
+5120267573,Pieter Jansen,08.12.2026,3825.50,EUR,NL01,Tobias Weber,false
+5120267575,Eva van Dijk,21.11.2026,5793.67,CHF,NL01,Julia Schmidt,false
+5120267581,Marco Müller,31.12.2026,-27225.68,USD,NL01,Julia Schmidt,false
+5120267594,Julia Schmidt,05.10.2026,27799.82,EUR,CH01,Tobias Weber,true
+5120267599,Julia Schmidt,20.11.2026,3060.96,EUR,CH01,Sophie Krause,false
+5120267606,Pieter Jansen,18.11.2026,1.99,EUR,DE01,Pieter Jansen,false
+5120267610,Pieter Jansen,27.12.2026,15558.79,CHF,NL01,Claudia Nowak,false
+5120267617,Louis Dubois,27.12.2026,41749.23,CHF,NL01,Claudia Nowak,true
+5120267629,Marco Müller,31.12.2026,11798.25,USD,FR03,Louis Dubois,false
+5120267634,Sophie Krause,01.11.2026,2224.02,GBP,FR03,Pieter Jansen,true
+5120267637,Marco Müller,21.11.2026,20327.22,EUR,AT01,Hannah Fischer,false
+5120267647,Sophie Krause,25.12.2026,45665.07,EUR,DE01,Sophie Krause,false
+5120267654,Anna Kowalski,14.10.2026,41200.18,USD,CH01,Julia Schmidt,false
+5120267662,Claudia Nowak,24.12.2026,16414.73,EUR,DE02,Marco Müller,false
+5120267670,Hannah Fischer,04.11.2026,18129.67,GBP,AT01,Sophie Krause,false
+5120267676,Marco Müller,29.11.2026,21177.52,EUR,US01,Tobias Weber,false
+5120267685,Hannah Fischer,13.10.2026,26265.79,EUR,NL01,Pieter Jansen,false
+5120267691,Louis Dubois,22.11.2026,28503.02,GBP,NL01,Marco Müller,false
+5120267697,Julia Schmidt,08.11.2026,178.03,GBP,CH01,Julia Schmidt,false
+5120267704,Eva van Dijk,14.11.2026,22814.52,GBP,DE01,Louis Dubois,false
+5120267710,Marco Müller,15.12.2026,1135.36,USD,US01,Julia Schmidt,true
+5120267718,Claudia Nowak,23.10.2026,398.42,EUR,CH01,Hannah Fischer,false
+5120267721,Louis Dubois,27.12.2026,42709.19,EUR,CH01,Eva van Dijk,false
+5120267730,Pieter Jansen,11.12.2026,43800.90,USD,DE02,Claudia Nowak,false
+5120267737,Julia Schmidt,28.11.2026,10311.18,EUR,NL01,Pieter Jansen,true
+5120267743,Louis Dubois,29.12.2026,30894.67,GBP,US01,Julia Schmidt,true
+5120267749,Anna Kowalski,16.11.2026,24558.56,CHF,AT01,Marco Müller,false
+5120267759,Claudia Nowak,30.11.2026,10325.74,USD,DE01,Louis Dubois,true
+5120267766,Julia Schmidt,16.11.2026,3778.56,USD,FR03,Tobias Weber,false
+5120267773,Sophie Krause,21.11.2026,37559.55,GBP,AT01,Tobias Weber,false
+5120267781,Julia Schmidt,23.12.2026,-10233.25,CHF,AT01,Tobias Weber,false
+5120267787,Eva van Dijk,20.11.2026,1358.31,GBP,DE02,Claudia Nowak,false
+5120267794,Eva van Dijk,24.11.2026,33204.42,EUR,AT01,Eva van Dijk,false
+5120267798,Sophie Krause,10.10.2026,34573.77,EUR,DE02,Marco Müller,false
+5120267807,Claudia Nowak,23.11.2026,33349.90,EUR,FR03,Marco Müller,false
+5120267817,Sophie Krause,07.10.2026,407.80,EUR,FR03,Hannah Fischer,true
+5120267823,Tobias Weber,06.12.2026,15713.22,USD,NL01,Tobias Weber,true
+5120267832,Marco Müller,02.12.2026,23439.59,EUR,FR03,Sophie Krause,false
+5120267834,Hannah Fischer,04.10.2026,-16182.67,EUR,DE02,Anna Kowalski,false
+5120267842,Tobias Weber,09.10.2026,40460.04,EUR,FR03,Pieter Jansen,false
+5120267851,Anna Kowalski,06.10.2026,12023.00,EUR,AT01,Tobias Weber,false
+5120267856,Julia Schmidt,23.10.2026,7626.30,EUR,AT01,Pieter Jansen,false
+5120267864,Sophie Krause,22.12.2026,14709.31,USD,AT01,Pieter Jansen,false
+5120267868,Anna Kowalski,04.10.2026,25804.51,CHF,FR03,Louis Dubois,false
+5120267878,Louis Dubois,11.12.2026,41078.50,EUR,US01,Anna Kowalski,false
+5120267888,Eva van Dijk,06.11.2026,17313.47,GBP,NL01,Pieter Jansen,false
+5120267893,Pieter Jansen,19.12.2026,47887.23,GBP,US01,Tobias Weber,false
+5120267896,Claudia Nowak,25.11.2026,-30613.08,GBP,US01,Tobias Weber,false
+5120267908,Pieter Jansen,16.12.2026,13636.22,EUR,AT01,Pieter Jansen,false
+5120267916,Tobias Weber,22.10.2026,25350.94,USD,US01,Anna Kowalski,false
+5120267923,Claudia Nowak,14.11.2026,24906.88,GBP,AT01,Sophie Krause,true
+5120267930,Marco Müller,18.11.2026,-26378.45,EUR,FR03,Hannah Fischer,false
+5120267933,Marco Müller,27.11.2026,40712.76,GBP,FR03,Tobias Weber,false
+5120267941,Anna Kowalski,19.11.2026,11948.55,USD,FR03,Pieter Jansen,false
+5120267946,Tobias Weber,26.10.2026,14359.87,EUR,FR03,Pieter Jansen,false
+5120267955,Anna Kowalski,03.10.2026,4.91,CHF,DE02,Louis Dubois,false
+5120267959,Sophie Krause,23.10.2026,38356.17,EUR,FR03,Claudia Nowak,true
+5120267969,Pieter Jansen,08.10.2026,40167.34,EUR,DE01,Julia Schmidt,true
+5120267978,Sophie Krause,28.12.2026,26155.72,EUR,US01,Julia Schmidt,false
+5120267984,Pieter Jansen,17.10.2026,4209.29,EUR,AT01,Claudia Nowak,false
+5120267989,Julia Schmidt,27.10.2026,78.62,GBP,DE02,Louis Dubois,false
+5120267995,Pieter Jansen,26.11.2026,31392.29,USD,AT01,Louis Dubois,false
+5120268006,Julia Schmidt,01.10.2026,16689.94,GBP,CH01,Hannah Fischer,false
+5120268013,Marco Müller,03.12.2026,-48586.97,EUR,US01,Julia Schmidt,false
+5120268020,Sophie Krause,20.11.2026,10513.18,EUR,FR03,Marco Müller,false
+5120268022,Louis Dubois,22.12.2026,34165.03,GBP,NL01,Claudia Nowak,false
+5120268032,Marco Müller,31.12.2026,3301.58,EUR,FR03,Sophie Krause,false
+5120268036,Marco Müller,24.12.2026,-26283.65,EUR,NL01,Julia Schmidt,false
+5120268045,Claudia Nowak,11.12.2026,34728.52,GBP,FR03,Anna Kowalski,false
+5120268056,Eva van Dijk,03.12.2026,38241.65,GBP,DE01,Louis Dubois,true
+5120268061,Hannah Fischer,24.10.2026,28088.82,USD,CH01,Louis Dubois,false
+5120268067,Claudia Nowak,20.11.2026,39649.61,EUR,AT01,Eva van Dijk,false
+5120268075,Pieter Jansen,25.11.2026,44231.16,EUR,FR03,Eva van Dijk,true
+5120268078,Eva van Dijk,15.11.2026,10868.08,EUR,NL01,Marco Müller,false
+5120268086,Julia Schmidt,28.12.2026,18333.25,CHF,AT01,Louis Dubois,false
+5120268097,Marco Müller,07.11.2026,41910.78,GBP,FR03,Marco Müller,false
+5120268102,Pieter Jansen,05.10.2026,3368.48,USD,AT01,Marco Müller,false
+5120268110,Tobias Weber,06.11.2026,34044.28,CHF,AT01,Marco Müller,false
+5120268116,Claudia Nowak,02.10.2026,20308.22,CHF,FR03,Tobias Weber,false
+5120268122,Anna Kowalski,12.10.2026,8043.11,EUR,FR03,Eva van Dijk,false
+5120268129,Anna Kowalski,04.11.2026,-34758.53,EUR,US01,Sophie Krause,true
+5120268139,Marco Müller,23.12.2026,20143.99,EUR,DE02,Julia Schmidt,true
+5120268142,Sophie Krause,07.11.2026,-11333.61,EUR,NL01,Sophie Krause,false
+5120268154,Tobias Weber,07.11.2026,10367.13,CHF,DE01,Claudia Nowak,true
+5120268158,Louis Dubois,15.10.2026,43938.99,EUR,DE01,Julia Schmidt,false
+5120268167,Claudia Nowak,11.11.2026,21491.69,EUR,AT01,Anna Kowalski,false
+5120268175,Tobias Weber,24.12.2026,17340.83,USD,AT01,Marco Müller,false
+5120268178,Tobias Weber,17.10.2026,5474.71,GBP,DE01,Claudia Nowak,false
+5120268183,Pieter Jansen,02.11.2026,46852.57,EUR,DE02,Anna Kowalski,false
+5120268195,Claudia Nowak,04.12.2026,5351.35,CHF,AT01,Julia Schmidt,true
+5120268199,Louis Dubois,16.10.2026,7711.57,EUR,AT01,Anna Kowalski,false
+5120268204,Marco Müller,08.10.2026,32954.83,EUR,CH01,Julia Schmidt,false
+5120268214,Hannah Fischer,19.11.2026,7555.87,EUR,AT01,Eva van Dijk,false
+5120268222,Hannah Fischer,16.12.2026,14886.36,EUR,CH01,Eva van Dijk,false
+5120268225,Marco Müller,09.10.2026,28065.06,EUR,US01,Louis Dubois,false
+5120268238,Louis Dubois,10.11.2026,30899.61,EUR,US01,Hannah Fischer,false
+5120268241,Sophie Krause,06.12.2026,31920.67,CHF,AT01,Tobias Weber,false
+5120268252,Sophie Krause,19.11.2026,14799.35,GBP,FR03,Sophie Krause,true
+5120268253,Tobias Weber,29.11.2026,44338.56,EUR,CH01,Julia Schmidt,false
+5120268261,Anna Kowalski,02.12.2026,2652.96,EUR,US01,Louis Dubois,false
+5120268267,Hannah Fischer,26.12.2026,38640.42,EUR,FR03,Pieter Jansen,true
+5120268280,Tobias Weber,29.11.2026,36000.03,GBP,FR03,Julia Schmidt,false
+5120268287,Eva van Dijk,03.12.2026,6809.94,GBP,US01,Pieter Jansen,false
+5120268288,Marco Müller,17.12.2026,16924.11,EUR,AT01,Julia Schmidt,false
+5120268297,Anna Kowalski,30.12.2026,4888.99,GBP,DE02,Louis Dubois,false
+5120268303,Louis Dubois,29.10.2026,30383.17,EUR,NL01,Louis Dubois,false
+5120268311,Sophie Krause,15.11.2026,31558.87,EUR,DE02,Marco Müller,false
+5120268320,Claudia Nowak,13.12.2026,-23847.43,EUR,US01,Anna Kowalski,false
+5120268323,Tobias Weber,19.12.2026,37116.54,CHF,NL01,Marco Müller,false
+5120268332,Sophie Krause,13.12.2026,15887.34,EUR,FR03,Anna Kowalski,false
+5120268339,Louis Dubois,21.10.2026,14693.36,USD,CH01,Sophie Krause,false
+5120268345,Eva van Dijk,04.11.2026,11352.17,EUR,NL01,Marco Müller,true
+5120268353,Tobias Weber,16.12.2026,99.58,EUR,NL01,Eva van Dijk,false
+5120268361,Anna Kowalski,03.11.2026,34862.91,USD,DE01,Claudia Nowak,false
+5120268366,Hannah Fischer,18.10.2026,23951.34,USD,CH01,Sophie Krause,true
+5120268373,Louis Dubois,11.11.2026,14244.05,EUR,CH01,Pieter Jansen,false
+5120268379,Julia Schmidt,03.12.2026,40164.51,GBP,NL01,Louis Dubois,true
+5120268390,Sophie Krause,26.12.2026,39478.89,GBP,CH01,Tobias Weber,false
+5120268394,Julia Schmidt,14.10.2026,5026.09,GBP,DE02,Anna Kowalski,false
