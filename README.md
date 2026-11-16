@@ -104,7 +104,8 @@ stop and write down what you would do next.
    - why
 4. Record a screen recording of at most two minutes showing Marta's flow with your changes. Link
    it from `WRITEUP.md`, or commit it.
-5. Invite TODO-reviewer-handles as collaborators and email TODO-contact to let us know.
+5. Invite `auxi-james` and `auxi-vlad` as collaborators, and email recruiting@auxilius.ai to let
+   us know.
 
 After we review it, we'll schedule a 30-minute call. You'll walk us through your solution, and then
 we'll think through a variation of the problem together.
